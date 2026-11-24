@@ -505,3 +505,315 @@ Zambrero
 Noodle Box
 Charleys Cheesesteaks
 Nathan's Famous
+[cá]
+Barreleye
+Pacific viperfish
+Black seadevil
+Marine hatchetfish
+Saccopharynx
+Gulper eel
+Telescope octopus-fish / telescopefish
+Fangtooth
+Loosejaw dragonfish
+Snipe eel
+Bobtail snipe eel
+Ribbon sawtail fish
+Cusk-eel
+Pearlfishes
+Hagfish
+Lamprey
+Coelacanth
+Australian lungfish
+South American lungfish
+Marbled lungfish
+Reedfish
+Bichir
+Bowfin
+Alligator gar
+Paddlefish
+Sturgeon
+Leafy seadragon
+Weedy seadragon
+Ruby seadragon
+Ghost pipefish
+Harlequin ghost pipefish
+Ornate ghost pipefish
+Frogfish
+Hairy frogfish
+Sargassum frogfish
+Red-lipped batfish
+Shortnose batfish
+Pancake batfish
+Peacock flounder
+Hogchoker
+Tongue sole
+Starry flounder
+Atlantic wolffish
+Spotted wolffish
+Banded archerfish
+Four-eyed fish
+Mudskipper
+Walking catfish
+Climbing perch
+Electric eel
+Elephantnose fish
+Clown knifefish
+Black ghost knifefish
+Arowana
+Arapaima
+Pirarucu
+Payara
+Pacu
+Piranha
+Glass catfish
+Upside-down catfish
+Banjo catfish
+Talking catfish
+Raphael catfish
+Corydoras
+Pleco
+Whiptail catfish
+Bumblebee goby
+Neon goby
+Dragon goby
+Lionfish
+Stonefish
+Scorpionfish
+Waspfish
+Velvetfish
+Sea robin
+Flying gurnard
+Flying fish
+Halfbeak
+Needlefish
+Ballyhoo
+Oarfish
+Dealftish
+King-of-the-salmon
+Opah
+Louvar
+Pomfret
+Butterflyfish
+Angelfish
+Moorish idol
+Triggerfish
+Clown triggerfish
+Titan triggerfish
+Porcupinefish
+Burrfish
+Boxfish
+Cowfish
+Pufferfish
+Sunfish
+Mola mola
+humuhumunukunukuapua'a
+[màu sắc]
+Crimson
+Scarlet
+Vermilion
+Carmine
+Ruby
+Rose
+Coral
+Salmon
+Peach
+Apricot
+Amber
+Gold
+Ochre
+Mustard
+Lemon
+Chartreuse
+Lime
+Olive
+Emerald
+Jade
+Mint
+Teal
+Turquoise
+Cyan
+Aquamarine
+Cerulean
+Cobalt
+Sapphire
+Ultramarine
+Indigo
+Periwinkle
+Lavender
+Lilac
+Amethyst
+Violet
+Purple
+Plum
+Mauve
+Magenta
+Fuchsia
+Orchid
+Burgundy
+Maroon
+Wine
+Rust
+Terracotta
+Sienna
+Umber
+Bronze
+Copper
+Brass
+Khaki
+Tan
+Beige
+Sand
+Ecru
+Ivory
+Cream
+Champagne
+Vanilla
+Alabaster
+Pearl
+Snow
+White
+Silver
+Pewter
+Ash
+Slate
+Charcoal
+Jet
+Obsidian
+Onyx
+Ebony
+Raven
+Midnight
+Navy
+Prussian blue
+Teal blue
+Pine
+Forest
+Hunter green
+Moss
+Sage
+Pistachio
+Seafoam
+Chartreuse yellow
+Canary
+Flax
+Saffron
+Marigold
+Tangerine
+Persimmon
+Blush
+Carnation
+Cerise
+Mulberry
+Eggplant
+Byzantium
+Heliotrope
+Wisteria
+Iris
+Chartreuse green
+Viridian
+Malachite
+Celadon
+[trái cây và rau củ]
+Apple
+Banana
+Orange
+Mango
+Pineapple
+Watermelon
+Strawberry
+Blueberry
+Raspberry
+Blackberry
+Grape
+Lemon
+Lime
+Grapefruit
+Papaya
+Guava
+Lychee
+Longan
+Rambutan
+Dragon fruit
+Passion fruit
+Pomegranate
+Kiwi
+Peach
+Plum
+Cherry
+Pear
+Fig
+Coconut
+Avocado
+Jackfruit
+Durian
+Starfruit
+Persimmon
+Apricot
+Cranberry
+Cantelope
+Honeydew
+Mulberry
+Tamarind
+Custard apple
+Pomelo
+Mandarin
+Kumquat
+Clementine
+Date
+Olive
+Gooseberry
+Currant
+Carrot
+Broccoli
+Cauliflower
+Spinach
+Kale
+Cabbage
+Lettuce
+Tomato
+Cucumber
+Potato
+Sweet potato
+Onion
+Garlic
+Ginger
+Bell pepper
+Chili pepper
+Eggplant
+Zucchini
+Pumpkin
+Corn
+Pea
+Green bean
+Celery
+Asparagus
+Radish
+Turnip
+Beetroot
+Artichoke
+Leek
+Scallion
+Bok choy
+Water spinach
+Mustard greens
+Chayote
+Bitter melon
+Winter melon
+Okra
+Brussels sprout
+Kohlrabi
+Fennel
+Parsnip
+Celeriac
+Yam
+Cassava
+Taro
+Watercress
+Dill
+Cilantro
+Parsley
+Mint
+Basil
+Thyme
+Rosemary
+Oregano
