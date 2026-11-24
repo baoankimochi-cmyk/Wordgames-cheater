@@ -1,4 +1,4 @@
-[material/mineral]
+[khoáng sản/kim loại]
 Iron
 Aluminum
 Copper
@@ -99,7 +99,7 @@ Spodumene
 Monazite
 Bastnasite
 Coal
-[Mammals]
+[Đv có vú]
 Lion
 Tiger
 Leopard
@@ -200,3 +200,308 @@ Blue whale
 Humpback whale
 Orca
 Bottlenose dolphin
+[bộ phận cơ thể]
+Head
+Forehead
+Eyebrow
+Eye
+Pupil
+Iris
+Cornea
+Eyelid
+Eyelash
+Nose
+Nostril
+Bridge of nose
+Cheek
+Cheekbone
+Mouth
+Lip
+Tongue
+Tooth
+Gum
+Palate
+Chin
+Jaw
+Ear
+Pinna
+Earlobe
+Eardrum
+Cochlea
+Neck
+Pharynx
+Larynx
+Trachea
+Esophagus
+Shoulder
+Arm
+Upper arm
+Elbow
+Forearm
+Wrist
+Hand
+Palm
+Finger
+Thumb
+Index finger
+Middle finger
+Ring finger
+Pinky finger
+Fingernail
+Chest
+Breast
+Rib
+Sternum
+Back
+Spine
+Abdomen
+Navel
+Waist
+Hip
+Buttock
+Groin
+Thigh
+Knee
+Kneecap
+Calf
+Ankle
+Heel
+Foot
+Sole
+Toe
+Toenail
+Brain
+Cerebellum
+Brainstem
+Spinal cord
+Nerve
+Heart
+Artery
+Vein
+Capillary
+Blood
+Lung
+Bronchus
+Alveolus
+Diaphragm
+Liver
+Gallbladder
+Stomach
+Small intestine
+Large intestine
+Appendix
+Rectum
+Anus
+Kidney
+Bladder
+Urethra
+Spleen
+Pancreas
+Thyroid gland
+Pituitary gland
+Adrenal gland
+Skin
+Muscle
+[HĐ ngoài trời]
+Hiking
+Mountaineering
+Camping
+Kayaking
+Stand-up paddleboarding
+Fishing
+Swimming
+Scuba diving
+Snorkeling
+Surfing
+Mountain biking
+Road cycling
+Running
+Trail running
+Skydiving
+Paragliding
+Archery
+Target shooting
+Paintball
+Horseback riding
+Golf
+Tennis
+Badminton
+Outdoor basketball
+Street soccer
+Beach volleyball
+Handball
+Baseball
+Rugby
+Skateboarding
+Roller skating
+Skiing
+Snowboarding
+Sandboarding
+Whitewater rafting
+Sailing
+Jet skiing
+Kiteboarding
+Windsurfing
+Bungee jumping
+Ziplining
+Caving
+Orienteering
+Birdwatching
+Stargazing
+Nature photography
+Plein air painting
+Reading under a tree
+Outdoor journaling
+Outdoor yoga
+Outdoor tai chi
+Obstacle course racing
+Jump roping
+Trampolining
+Frisbee
+Ring toss
+Petanque
+Sepak takraw
+Tug of war
+Sack racing
+Hide-and-seek
+Tag
+Flying kites
+Blowing soap bubbles
+Gardening
+Tree planting
+Pruning
+Harvesting crops
+Environmental cleanup
+Beach cleanup
+Picnicking
+Outdoor barbecuing
+Campfire coffee brewing
+Campfire building
+Campfire storytelling
+Outdoor acoustic music
+Pitching a tent
+Hammock lounging
+Walking a pet
+Outdoor pet training
+Foraging wild plants
+Rock and mineral collecting
+Geocaching
+Sunbathing
+Lakeside walking
+Park walking
+Beach walking
+Sunrise watching
+Sunset watching
+Swinging
+Sliding
+Seesawing
+Beach sand play
+Building sandcastles
+Digging sand holes
+Stone skipping
+BMX racing
+ATV racing
+Off-road driving
+Outdoor drone filming
+Coracle boating
+[nhà hàng đồ ăn nhanh]
+McDonald's
+Burger King
+KFC
+Subway
+Taco Bell
+Pizza Hut
+Domino's
+Wendy's
+Chick-fil-A
+Popeyes
+Five Guys
+Chipotle Mexican Grill
+Panda Express
+Dairy Queen
+Arby's
+Sonic Drive-In
+Jack in the Box
+Carl's Jr.
+Hardee's
+In-N-Out Burger
+Shake Shack
+Whataburger
+Culver's
+White Castle
+Jollibee
+Lotteria
+MOS Burger
+Tim Hortons
+Dunkin'
+Krispy Kreme
+Little Caesars
+Papa Johns
+Wingstop
+Raising Cane's
+Zaxby's
+Bojangles
+Church's Texas Chicken
+El Pollo Loco
+Del Taco
+Jersey Mike's Subs
+Jimmy John's
+Firehouse Subs
+Panera Bread
+Nando's
+A&W Restaurants
+Checkers
+Rally's
+Long John Silver's
+Captain D's
+Freddy's Frozen Custard & Steakburgers
+Steak 'n Shake
+Krystal
+Fatburger
+Braum's
+Cook Out
+CAVA
+Sweetgreen
+Tropical Smoothie Cafe
+Jamba
+Smoothie King
+Auntie Anne's
+Cinnabon
+Wetzel's Pretzels
+Sbarro
+Marco's Pizza
+Hungry Howie's
+Jet's Pizza
+Mod Pizza
+Blaze Pizza
+Pieology
+Panda Restaurant Group
+Dicos
+Yoshinoya
+Sukiya
+Matsuya
+CoCo Ichibanya
+Kura Sushi
+Marrybrown
+Texas Chicken
+Bonchon
+bb.q Chicken
+Kyochon
+Pelicana Chicken
+Mixue
+Luckin Coffee
+Greggs
+Pret A Manger
+Leon
+Wimpy
+Quick
+Max Burgers
+Hesburger
+Hungry Jack's
+Red Rooster
+Oporto
+Guzman y Gomez
+Zambrero
+Noodle Box
+Charleys Cheesesteaks
+Nathan's Famous
