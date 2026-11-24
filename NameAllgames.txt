@@ -512,14 +512,12 @@ Black seadevil
 Marine hatchetfish
 Saccopharynx
 Gulper eel
-Telescope octopus-fish / telescopefish
 Fangtooth
 Loosejaw dragonfish
 Snipe eel
 Bobtail snipe eel
 Ribbon sawtail fish
 Cusk-eel
-Pearlfishes
 Hagfish
 Lamprey
 Coelacanth
@@ -588,8 +586,6 @@ Halfbeak
 Needlefish
 Ballyhoo
 Oarfish
-Dealftish
-King-of-the-salmon
 Opah
 Louvar
 Pomfret
@@ -607,6 +603,84 @@ Pufferfish
 Sunfish
 Mola mola
 humuhumunukunukuapua'a
+Anchovy
+Sardine
+Mackerel
+Tuna
+Salmon
+Trout
+Cod
+Haddock
+Herring
+Halibut
+Flounder
+Tilapia
+Carp
+Goldfish
+Koi
+Betta
+Guppy
+Molly
+Swordfish
+Marlin
+Barracuda
+Snapper
+Grouper
+Sea bass
+Catfish
+Perch
+Pike
+Walleye
+Zander
+Eel
+Moray eel
+Blue tang
+Yellow tang
+Clownfish
+Damselfish
+Wrasse
+Parrotfish
+Butterfly ray
+Manta ray
+Stingray
+Shark
+Hammerhead shark
+Whale shark
+Goblin shark
+Basking shark
+Thresher shark
+Chimaera
+Sea lamprey
+Atlantic salmon
+Rainbow trout
+Brook trout
+Whitefish
+Red mullet
+Sole
+Skate
+Cobia
+Amberjack
+Tarpon
+Bonefish
+Milkfish
+White perch
+Black bass
+Largemouth bass
+Smallmouth bass
+Bluegill
+Minnow
+Whitebait
+Porgy
+Drum fish
+Turbot
+Monkfish
+Anglerfish
+Sea bream
+Sea horse
+Pipefish
+Filefish
+Batfish
+Mantis shrimp
 [màu sắc]
 Crimson
 Scarlet
@@ -619,7 +693,6 @@ Salmon
 Peach
 Apricot
 Amber
-Gold
 Ochre
 Mustard
 Lemon
@@ -634,7 +707,6 @@ Turquoise
 Cyan
 Aquamarine
 Cerulean
-Cobalt
 Sapphire
 Ultramarine
 Indigo
@@ -657,7 +729,6 @@ Terracotta
 Sienna
 Umber
 Bronze
-Copper
 Brass
 Khaki
 Tan
@@ -672,7 +743,6 @@ Alabaster
 Pearl
 Snow
 White
-Silver
 Pewter
 Ash
 Slate
@@ -708,10 +778,8 @@ Eggplant
 Byzantium
 Heliotrope
 Wisteria
-Iris
 Chartreuse green
 Viridian
-Malachite
 Celadon
 [trái cây và rau củ]
 Apple
@@ -725,8 +793,6 @@ Blueberry
 Raspberry
 Blackberry
 Grape
-Lemon
-Lime
 Grapefruit
 Papaya
 Guava
@@ -737,8 +803,6 @@ Dragon fruit
 Passion fruit
 Pomegranate
 Kiwi
-Peach
-Plum
 Cherry
 Pear
 Fig
@@ -747,12 +811,9 @@ Avocado
 Jackfruit
 Durian
 Starfruit
-Persimmon
-Apricot
 Cranberry
-Cantelope
+Cantaloupe
 Honeydew
-Mulberry
 Tamarind
 Custard apple
 Pomelo
@@ -760,7 +821,6 @@ Mandarin
 Kumquat
 Clementine
 Date
-Olive
 Gooseberry
 Currant
 Carrot
@@ -779,7 +839,6 @@ Garlic
 Ginger
 Bell pepper
 Chili pepper
-Eggplant
 Zucchini
 Pumpkin
 Corn
@@ -809,11 +868,9 @@ Yam
 Cassava
 Taro
 Watercress
-Dill
-Cilantro
-Parsley
-Mint
-Basil
-Thyme
-Rosemary
-Oregano
+Swiss chard
+Collard greens
+Rutabaga
+Jerusalem artichoke
+Edamame
+Snow pea
