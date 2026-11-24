@@ -513,6 +513,7 @@ Marine hatchetfish
 Saccopharynx
 Gulper eel
 Fangtooth
+football fish
 Loosejaw dragonfish
 Snipe eel
 Bobtail snipe eel
@@ -2075,3 +2076,609 @@ Flying horse
 Pegasus
 Dragon
 Unicorn
+[ngày lễ]
+Christmas
+New Year's Day
+New Year's Eve
+Valentine's Day
+International Women's Day
+International Men's Day
+International Children's Day
+World Children's Day
+Mother's Day
+Father's Day
+Parents' Day
+Grandparents' Day
+Family Day
+Friendship Day
+World Friendship Day
+April Fools' Day
+Earth Day
+World Environment Day
+World Water Day
+World Ocean Day
+World Wildlife Day
+World Animal Day
+World Forest Day
+World Health Day
+World Food Day
+World Teachers' Day
+Teacher's Day
+International Nurses Day
+Doctor's Day
+World Book Day
+World Poetry Day
+World Music Day
+International Dance Day
+World Art Day
+World Photography Day
+World Cinema Day
+International Museum Day
+World Heritage Day
+World Tourism Day
+International Literacy Day
+World Science Day
+World Mathematics Day
+Pi Day
+International Space Day
+Earth Hour
+Ozone Day
+World Recycling Day
+World Bicycle Day
+World Car Free Day
+World Population Day
+World Refugee Day
+Human Rights Day
+International Peace Day
+World Freedom Day
+World Democracy Day
+International Youth Day
+World Autism Awareness Day
+World Mental Health Day
+World AIDS Day
+World Cancer Day
+World Diabetes Day
+World Heart Day
+World Stroke Day
+World Immunization Day
+World Malaria Day
+World Tuberculosis Day
+World Polio Day
+World Blood Donor Day
+World Red Cross Day
+International Holocaust Remembrance Day
+International Women's Day
+Black History Month
+LGBTQ Pride Month
+Pride Day
+Juneteenth
+Independence Day
+Memorial Day
+Veterans Day
+Armed Forces Day
+Labor Day
+Columbus Day
+Thanksgiving
+Halloween
+Easter
+Good Friday
+Palm Sunday
+Ash Wednesday
+Pentecost
+Epiphany
+All Saints' Day
+All Souls' Day
+St. Patrick's Day
+St. Valentine's Day
+St. George's Day
+St. Andrew's Day
+St. David's Day
+St. Nicholas Day
+Boxing Day
+Bastille Day
+Canada Day
+Australia Day
+Republic Day
+Constitution Day
+Flag Day
+National Day
+Remembrance Day
+Anzac Day
+Day of the Dead
+Cinco de Mayo
+Chinese New Year
+Lunar New Year
+Mid-Autumn Festival
+Lantern Festival
+Dragon Boat Festival
+Qingming Festival
+Double Ninth Festival
+Chuseok
+Seollal
+Songkran
+Diwali
+Holi
+Navratri
+Dussehra
+Raksha Bandhan
+Ganesh Chaturthi
+Vesak
+Buddha's Birthday
+Eid al-Fitr
+Eid al-Adha
+Ramadan
+Islamic New Year
+Mawlid
+Hanukkah
+Passover
+Rosh Hashanah
+Yom Kippur
+Sukkot
+Purim
+Nowruz
+Persian New Year
+Kwanzaa
+Oktoberfest
+Carnival
+Mardi Gras
+Burning Man
+Coachella
+Comic-Con
+Black Friday
+Cyber Monday
+Singles' Day
+Prime Day
+World Emoji Day
+International Coffee Day
+International Tea Day
+World Chocolate Day
+National Pizza Day
+National Donut Day
+National Ice Cream Day
+National Burger Day
+National Pancake Day
+National Sandwich Day
+National Popcorn Day
+National Cookie Day
+National Candy Day
+National Pasta Day
+National French Fry Day
+National Hot Dog Day
+National Taco Day
+National Sushi Day
+National Beer Day
+National Wine Day
+National Apple Day
+National Banana Day
+National Pumpkin Day
+National Strawberry Day
+National Garlic Day
+National Bacon Day
+National Chicken Day
+National Waffle Day
+National Cereal Day
+National Soup Day
+National Ramen Day
+National Cheese Day
+National Nutella Day
+National Bubble Tea Day
+National Milk Day
+National Water Day
+National Spaghetti Day
+National Muffin Day
+National Cupcake Day
+National Marshmallow Day
+National Peanut Day
+National Ketchup Day
+National Mustard Day
+National Pickle Day
+National Avocado Day
+National Mango Day
+National Lemonade Day
+National Smoothie Day
+National Tea Day
+National Chocolate Chip Cookie Day
+National Brownie Day
+National Cheesecake Day
+National Croissant Day
+National Pretzel Day
+National Bagel Day
+National Dumpling Day
+National Fried Chicken Day
+National Fish and Chips Day
+National BBQ Day
+National Pancake Week
+National Breakfast Day
+National Dessert Day
+National Fast Food Day
+National Restaurant Day
+National Food Day
+National Farmers Day
+National Gardening Day
+National Camping Day
+National Hiking Day
+National Swimming Day
+National Skating Day
+National Yoga Day
+National Fitness Day
+National Running Day
+National Chess Day
+National Video Game Day
+National Board Game Day
+National Puzzle Day
+National Lego Day
+National Toy Day
+National Pet Day
+National Dog Day
+National Cat Day
+National Horse Day
+National Bird Day
+National Turtle Day
+National Snake Day
+National Panda Day
+National Elephant Day
+National Tiger Day
+National Dolphin Day
+National Whale Day
+National Penguin Day
+National Frog Day
+National Bee Day
+National Butterfly Day
+National Bat Day
+National Shark Day
+National Monkey Day
+National Llama Day
+National Koala Day
+National Reptile Day
+National Dinosaur Day
+National Space Day
+National Meteor Day
+National Moon Day
+National Sun Day
+National Planet Day
+National Astronomy Day
+National Robotics Day
+National AI Day
+National Internet Day
+National Computer Day
+National Coding Day
+National Cybersecurity Day
+National Technology Day
+National Innovation Day
+National Engineering Day
+National Inventors Day
+National Electricity Day
+National Energy Day
+National Transportation Day
+National Aviation Day
+National Railway Day
+National Maritime Day
+National Firefighters Day
+National Police Day
+National Security Day
+National Safety Day
+National Volunteer Day
+National Charity Day
+National Kindness Day
+National Gratitude Day
+National Happiness Day
+National Smile Day
+National Hug Day
+National Compliment Day
+National Forgiveness Day
+National Patience Day
+National Honesty Day
+National Courage Day
+National Creativity Day
+National Imagination Day
+National Dream Day
+National Storytelling Day
+National Writing Day
+National Reading Day
+National Library Day
+National Newspaper Day
+National Podcast Day
+National Radio Day
+National Television Day
+National Film Day
+National Theater Day
+National Opera Day
+National Ballet Day
+National Music Day
+National Guitar Day
+National Piano Day
+National Drum Day
+National Singing Day
+National Poetry Day
+National Language Day
+National Grammar Day
+National Dictionary Day
+National Translation Day
+National History Day
+National Geography Day
+National Archaeology Day
+National Philosophy Day
+National Religion Day
+National Culture Day
+National Heritage Day
+National Architecture Day
+National Design Day
+National Fashion Day
+National Beauty Day
+National Hair Day
+National Makeup Day
+National Tattoo Day
+National Jewelry Day
+National Craft Day
+National Handmade Day
+National Sewing Day
+National Knitting Day
+National Origami Day
+National Painting Day
+National Drawing Day
+National Sculpture Day
+National Pottery Day
+National Flower Day
+National Tree Day
+National Plant Day
+National Herb Day
+National Garden Day
+National Soil Day
+National Clean Air Day
+National Climate Day
+National Conservation Day
+National Ocean Day
+National River Day
+National Lake Day
+National Mountain Day
+National Forest Day
+National Desert Day
+National Rainforest Day
+National Wetlands Day
+National Wildlife Day
+National Earth Day
+National Recycling Day
+National Sustainability Day
+National Zero Waste Day
+National Clean Water Day
+National Green Day
+National Solar Day
+National Wind Day
+National Meteorology Day
+National Weather Day
+National Cloud Day
+National Snow Day
+National Rain Day
+National Storm Day
+National Earthquake Day
+National Volcano Day
+National Glacier Day
+National Arctic Day
+National Antarctic Day
+National Island Day
+National Cave Day
+National Canyon Day
+National Waterfall Day
+National Beach Day
+National Coral Day
+National Seashell Day
+National Fishing Day
+National Boating Day
+National Surfing Day
+National Diving Day
+National Kayaking Day
+National Sailing Day
+National Cycling Day
+National Walking Day
+National Road Trip Day
+National Travel Day
+National Tourism Day
+National Hotel Day
+National Airport Day
+National City Day
+National Village Day
+National Neighborhood Day
+National Community Day
+National Friendship Day
+National Family Day
+National Siblings Day
+National Cousins Day
+National Wedding Day
+National Anniversary Day
+National Birthday Day
+National Graduation Day
+National Retirement Day
+National New Home Day
+National Moving Day
+National First Day
+National Last Day
+National Beginning Day
+National Ending Day
+kwanzaa
+[các bước trong buổi sáng]
+các bước trong buổi sáng
+Wake up
+Turn off alarm
+Get out of bed
+Stretch
+Yawn
+Make the bed
+Open curtains
+Open window
+Check phone
+Turn off phone
+Check notifications
+Wash face
+Brush teeth
+Floss
+Use mouthwash
+Take a shower
+Take a bath
+Dry hair
+Comb hair
+Brush hair
+Get dressed
+Put on clothes
+Change clothes
+Wear socks
+Wear shoes
+Apply deodorant
+Apply perfume
+Shave
+Skincare
+Apply moisturizer
+Apply sunscreen
+Clean ears
+Trim nails
+Use the toilet
+Flush toilet
+Wash hands
+Drink water
+Drink milk
+Make coffee
+Brew tea
+Prepare breakfast
+Cook breakfast
+Fry eggs
+Boil eggs
+Toast bread
+Make sandwich
+Pour cereal
+Eat breakfast
+Wash dishes
+Clean table
+Pack lunch
+Pack backpack
+Pack school bag
+Prepare books
+Check homework
+Check timetable
+Get stationery
+Charge phone
+Charge laptop
+Check weather
+Check temperature
+Choose outfit
+Iron clothes
+Fold clothes
+Feed pets
+Walk dog
+Clean pet cage
+Water plants
+Sweep floor
+Vacuum floor
+Take out trash
+Clean room
+Organize desk
+Lock door
+Check keys
+Wear watch
+Put on jacket
+Put on helmet
+Leave home
+Walk to school
+Ride bicycle
+Take bus
+Take taxi
+Drive car
+Catch train
+Go to school
+Go to work
+Say goodbye
+Check traffic
+Listen to music
+Listen to podcast
+Read newspaper
+Read book
+Meditate
+Pray
+Exercise
+Do yoga
+Jog
+Run
+Work out
+Do push-ups
+Do sit-ups
+Take vitamins
+Prepare medication
+Make lunch
+Fill water bottle
+Brush shoes
+Polish shoes
+Clean glasses
+Put on glasses
+Put on contacts
+Tie shoelaces
+Untie shoelaces
+Zip backpack
+Close window
+Turn off lights
+Turn off fan
+Turn off air conditioner
+Turn off television
+Turn on lights
+Turn on fan
+Turn on air conditioner
+Set alarm
+Check calendar
+Check schedule
+Write to-do list
+Plan day
+Review goals
+Study
+Practice English
+Practice instrument
+Practice handwriting
+Do morning chores
+Take out recycling
+Feed chickens
+Feed fish
+Water garden
+Pick up clothes
+Put laundry away
+Hang clothes
+Make smoothie
+Drink juice
+Eat fruit
+Eat yogurt
+Eat toast
+Eat pancakes
+Eat oatmeal
+Eat waffles
+Eat bacon
+Eat sausage
+Eat rice
+Eat noodles
+Prepare coffee
+Add sugar
+Add milk
+Stir coffee
+Wash fruit
+Peel banana
+Cut fruit
+Pack snacks
+Grab wallet
+Grab keys
+Grab umbrella
+Grab headphones
+Grab charger
+Grab lunchbox
+Put on backpack
+Wear uniform
+Adjust tie
+Button shirt
+Brush teeth again
+Wash feet
+Put on slippers
+Take off pajamas
+Fold pajamas
+Put pajamas away
+Open door
+Close door
+Lock gate
+Walk downstairs
+Take elevator
+Wait for bus
+Cross street
+Arrive at school
+Arrive at work
