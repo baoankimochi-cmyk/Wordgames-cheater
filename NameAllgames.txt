@@ -1,0 +1,202 @@
+[material/mineral]
+Iron
+Aluminum
+Copper
+Zinc
+Lead
+Tin
+Nickel
+Cobalt
+Manganese
+Chromium
+Titanium
+Magnesium
+Calcium
+Sodium
+Potassium
+Lithium
+Beryllium
+Barium
+Strontium
+Gold
+Silver
+Platinum
+Palladium
+Iridium
+Osmium
+Rhodium
+Ruthenium
+Mercury
+Tungsten
+Molybdenum
+Vanadium
+Niobium
+Tantalum
+Zirconium
+Hafnium
+Bismuth
+Antimony
+Cadmium
+Gallium
+Indium
+Thallium
+Cerium
+Lanthanum
+Neodymium
+Samarium
+Europium
+Gadolinium
+Terbium
+Dysprosium
+Yttrium
+Quartz
+Feldspar
+Mica
+Calcite
+Dolomite
+Gypsum
+Apatite
+Fluorite
+Bauxite
+Hematite
+Magnetite
+Goethite
+Limonite
+Siderite
+Pyrite
+Chalcopyrite
+Malachite
+Azurite
+Galena
+Sphalerite
+Cassiterite
+Cinnabar
+Wolframite
+Scheelite
+Chromite
+Ilmenite
+Rutile
+Zircon
+Olivine
+Pyroxene
+Amphibole
+Garnet
+Topaz
+Corundum
+Diamond
+Graphite
+Sulfur
+Halite
+Sylvite
+Borax
+Talc
+Kaolinite
+Bentonite
+Asbestos
+Barite
+Celestine
+Spodumene
+Monazite
+Bastnasite
+Coal
+[Mammals]
+Lion
+Tiger
+Leopard
+Jaguar
+Cheetah
+Snow leopard
+Clouded leopard
+Cougar
+Lynx
+Bobcat
+Ocelot
+Serval
+Caracal
+Domestic cat
+Wolf
+Red fox
+Arctic fox
+Fennec fox
+Coyote
+Jackal
+African wild dog
+Dingo
+Domestic dog
+Brown bear
+Polar bear
+Black bear
+Giant panda
+Red panda
+Sun bear
+Sloth bear
+Spectacled bear
+African elephant
+Asian elephant
+White rhinoceros
+Black rhinoceros
+Indian rhinoceros
+Hippopotamus
+Pygmy hippopotamus
+Giraffe
+Okapi
+Plains zebra
+Grevy's zebra
+Wild horse
+Donkey
+Wild boar
+Warthog
+Red deer
+Moose
+Reindeer
+Elk
+Roe deer
+Impala
+Gazelle
+Wildebeest
+Bison
+African buffalo
+Water buffalo
+Yak
+Muskox
+Mountain goat
+Bighorn sheep
+Ibex
+Chamois
+Camel
+Dromedary
+Llama
+Alpaca
+Vicuna
+Guanaco
+Chimpanzee
+Bonobo
+Gorilla
+Orangutan
+Gibbon
+Baboon
+Mandrill
+Macaque
+Capuchin monkey
+Howler monkey
+Spider monkey
+Ring-tailed lemur
+Aye-aye
+Tarsier
+Sloth
+Armadillo
+Anteater
+Pangolin
+Aardvark
+Kangaroo
+Wallaby
+Koala
+Wombat
+Tasmanian devil
+Opossum
+Platypus
+Echidna
+Blue whale
+Humpback whale
+Orca
+Bottlenose dolphin
