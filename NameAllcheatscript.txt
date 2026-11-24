@@ -1,0 +1,331 @@
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local HttpService = game:GetService("HttpService")
+local UserInputService = game:GetService("UserInputService")
+
+local URL = "https://raw.githubusercontent.com/baoankimochi-cmyk/Wordgames-cheater/refs/heads/main/NameAllgames.txt"
+local STEP_DELAY = 0.1
+
+local Player = Players.LocalPlayer
+local PlayerGui = Player:WaitForChild("PlayerGui")
+
+local Categories = {}
+local Selected = nil
+local Running = false
+local RunId = 0
+
+local Gui = Instance.new("ScreenGui")
+Gui.Name = "Anyx_VN_Scriiiiiiiipt"
+Gui.ResetOnSpawn = false
+Gui.DisplayOrder = 999999
+Gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+Gui.Parent = PlayerGui
+
+local Main = Instance.new("Frame")
+Main.Size = UDim2.fromOffset(580, 445)
+Main.Position = UDim2.new(0.5, -290, 0.5, -222)
+Main.BackgroundColor3 = Color3.fromRGB(15, 25, 32)
+Main.BorderSizePixel = 0
+Main.ZIndex = 100
+Main.Active = true
+Main.Draggable = true
+Main.Parent = Gui
+
+local Header = Instance.new("TextLabel")
+Header.Size = UDim2.new(1, -52, 0, 30)
+Header.Position = UDim2.fromOffset(10, 8)
+Header.BackgroundTransparency = 1
+Header.TextColor3 = Color3.fromRGB(0, 210, 230)
+Header.Font = Enum.Font.GothamBold
+Header.TextSize = 15
+Header.TextXAlignment = Enum.TextXAlignment.Left
+Header.ZIndex = 101
+Header.Text = "Anyx_VN scriiiiiiiipt"
+Header.Parent = Main
+
+local CloseBtn = Instance.new("TextButton")
+CloseBtn.Size = UDim2.fromOffset(30, 26)
+CloseBtn.Position = UDim2.new(1, -38, 0, 10)
+CloseBtn.BackgroundColor3 = Color3.fromRGB(200, 60, 70)
+CloseBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseBtn.Font = Enum.Font.GothamBold
+CloseBtn.TextSize = 14
+CloseBtn.ZIndex = 102
+CloseBtn.Text = "X"
+CloseBtn.Parent = Main
+
+local SearchBox = Instance.new("TextBox")
+SearchBox.Size = UDim2.new(1, -20, 0, 28)
+SearchBox.Position = UDim2.fromOffset(10, 42)
+SearchBox.BackgroundColor3 = Color3.fromRGB(22, 36, 46)
+SearchBox.TextColor3 = Color3.fromRGB(235, 245, 250)
+SearchBox.PlaceholderColor3 = Color3.fromRGB(125, 155, 170)
+SearchBox.PlaceholderText = "Search category..."
+SearchBox.Text = ""
+SearchBox.ClearTextOnFocus = false
+SearchBox.Font = Enum.Font.Gotham
+SearchBox.TextSize = 13
+SearchBox.TextXAlignment = Enum.TextXAlignment.Left
+SearchBox.ZIndex = 102
+SearchBox.Parent = Main
+
+local CatList = Instance.new("ScrollingFrame")
+CatList.Size = UDim2.fromOffset(190, 285)
+CatList.Position = UDim2.fromOffset(10, 76)
+CatList.BackgroundColor3 = Color3.fromRGB(22, 36, 46)
+CatList.BorderSizePixel = 0
+CatList.ScrollBarThickness = 4
+CatList.ZIndex = 101
+CatList.Parent = Main
+
+local CatLayout = Instance.new("UIListLayout")
+CatLayout.Padding = UDim.new(0, 4)
+CatLayout.Parent = CatList
+
+local WordList = Instance.new("ScrollingFrame")
+WordList.Size = UDim2.fromOffset(360, 285)
+WordList.Position = UDim2.fromOffset(210, 76)
+WordList.BackgroundColor3 = Color3.fromRGB(22, 36, 46)
+WordList.BorderSizePixel = 0
+WordList.ScrollBarThickness = 4
+WordList.ZIndex = 101
+WordList.Parent = Main
+
+local WordLayout = Instance.new("UIListLayout")
+WordLayout.Padding = UDim.new(0, 3)
+WordLayout.Parent = WordList
+
+local Status = Instance.new("TextLabel")
+Status.Size = UDim2.fromOffset(350, 28)
+Status.Position = UDim2.fromOffset(10, 407)
+Status.BackgroundTransparency = 1
+Status.TextColor3 = Color3.fromRGB(180, 210, 220)
+Status.TextXAlignment = Enum.TextXAlignment.Left
+Status.ZIndex = 101
+Status.Text = "Auto-reloading... (Left Ctrl: Hide/Show)"
+Status.Parent = Main
+
+local ReloadBtn = Instance.new("TextButton")
+ReloadBtn.Size = UDim2.fromOffset(95, 28)
+ReloadBtn.Position = UDim2.fromOffset(370, 407)
+ReloadBtn.BackgroundColor3 = Color3.fromRGB(0, 175, 195)
+ReloadBtn.TextColor3 = Color3.fromRGB(10, 20, 25)
+ReloadBtn.ZIndex = 102
+ReloadBtn.Text = "RELOAD"
+ReloadBtn.Parent = Main
+
+local RunBtn = Instance.new("TextButton")
+RunBtn.Size = UDim2.fromOffset(95, 28)
+RunBtn.Position = UDim2.fromOffset(475, 407)
+RunBtn.BackgroundColor3 = Color3.fromRGB(40, 190, 120)
+RunBtn.TextColor3 = Color3.fromRGB(10, 20, 25)
+RunBtn.ZIndex = 102
+RunBtn.Text = "RUN"
+RunBtn.Parent = Main
+
+local function ToggleGui()
+	Main.Visible = not Main.Visible
+end
+
+CloseBtn.MouseButton1Click:Connect(function()
+	Main.Visible = false
+end)
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+	if input.KeyCode == Enum.KeyCode.LeftControl then
+		ToggleGui()
+	end
+end)
+
+local function ClearChildren(frame)
+	for _, v in ipairs(frame:GetChildren()) do
+		if v:IsA("GuiObject") then
+			v:Destroy()
+		end
+	end
+end
+
+local function ParseRaw(raw)
+	local data = {}
+	local current = nil
+	for line in raw:gmatch("[^\r\n]+") do
+		line = line:match("^%s*(.-)%s*$")
+		if line ~= "" then
+			local cat = line:match("^%[(.-)%]$")
+			if cat then
+				current = cat
+				data[current] = data[current] or {}
+			elseif current then
+				table.insert(data[current], line)
+			end
+		end
+	end
+	return data
+end
+
+local function FetchRaw()
+	local fetchRemote = ReplicatedStorage:FindFirstChild("FetchWordData")
+	if fetchRemote and fetchRemote:IsA("RemoteFunction") then
+		local ok, res = pcall(function()
+			return fetchRemote:InvokeServer()
+		end)
+		if ok and type(res) == "string" and res ~= "" then
+			return res
+		end
+	end
+
+	local okHttp, resHttp = pcall(function()
+		return HttpService:GetAsync(URL)
+	end)
+	if okHttp and type(resHttp) == "string" and resHttp ~= "" then
+		return resHttp
+	end
+
+	if typeof(game.HttpGet) == "function" then
+		local okExec, resExec = pcall(function()
+			return game:HttpGet(URL)
+		end)
+		if okExec and type(resExec) == "string" and resExec ~= "" then
+			return resExec
+		end
+	end
+
+	return nil
+end
+
+local function ShowWords(cat)
+	ClearChildren(WordList)
+	for i, word in ipairs(Categories[cat] or {}) do
+		local lbl = Instance.new("TextLabel")
+		lbl.Size = UDim2.new(1, -8, 0, 22)
+		lbl.BackgroundColor3 = Color3.fromRGB(32, 50, 62)
+		lbl.TextColor3 = Color3.fromRGB(235, 245, 250)
+		lbl.TextXAlignment = Enum.TextXAlignment.Left
+		lbl.ZIndex = 102
+		lbl.Text = "  " .. word
+		lbl.LayoutOrder = i
+		lbl.Parent = WordList
+	end
+	task.wait()
+	WordList.CanvasSize = UDim2.fromOffset(0, WordLayout.AbsoluteContentSize.Y + 6)
+end
+
+local function BuildCategories(filter)
+	filter = (filter or ""):lower()
+	ClearChildren(CatList)
+	local names = {}
+	for k in pairs(Categories) do
+		if filter == "" or k:lower():find(filter, 1, true) then
+			table.insert(names, k)
+		end
+	end
+	table.sort(names, function(a, b)
+		return a:lower() < b:lower()
+	end)
+
+	for i, name in ipairs(names) do
+		local btn = Instance.new("TextButton")
+		btn.Size = UDim2.new(1, -8, 0, 28)
+		btn.BackgroundColor3 = (Selected == name) and Color3.fromRGB(0, 195, 215) or Color3.fromRGB(32, 50, 62)
+		btn.TextColor3 = (Selected == name) and Color3.fromRGB(10, 20, 25) or Color3.fromRGB(235, 245, 250)
+		btn.TextXAlignment = Enum.TextXAlignment.Left
+		btn.ZIndex = 102
+		btn.Text = "  " .. name
+		btn.LayoutOrder = i
+		btn.Parent = CatList
+
+		btn.MouseButton1Click:Connect(function()
+			Selected = name
+			BuildCategories(SearchBox.Text)
+			ShowWords(name)
+			Status.Text = "Selected: " .. name .. " (" .. #Categories[name] .. ")"
+		end)
+	end
+	task.wait()
+	CatList.CanvasSize = UDim2.fromOffset(0, CatLayout.AbsoluteContentSize.Y + 6)
+end
+
+SearchBox:GetPropertyChangedSignal("Text"):Connect(function()
+	BuildCategories(SearchBox.Text)
+end)
+
+local function GetAnswerBox()
+	local roundUI = PlayerGui:FindFirstChild("RoundUI")
+	local hud = roundUI and roundUI:FindFirstChild("Hud")
+	local panel = hud and hud:FindFirstChild("Panel")
+	local inputBar = panel and panel:FindFirstChild("InputBar")
+	return inputBar and inputBar:FindFirstChild("AnswerBox")
+end
+
+local function SendWordFast(word, box)
+	if box and box:IsA("TextBox") then
+		box.Text = word
+		box:ReleaseFocus(true)
+	else
+		local remotes = ReplicatedStorage:FindFirstChild("Remotes")
+		local submitRemote = remotes and remotes:FindFirstChild("SubmitWord")
+		if submitRemote and submitRemote:IsA("RemoteEvent") then
+			submitRemote:FireServer(word)
+		end
+	end
+end
+
+local function DoReload()
+	Running = false
+	RunId += 1
+	RunBtn.Text = "RUN"
+	Status.Text = "Fetching..."
+	local raw = FetchRaw()
+	if not raw then
+		Status.Text = "Fetch failed"
+		return
+	end
+	Categories = ParseRaw(raw)
+	Selected = nil
+	ClearChildren(WordList)
+	BuildCategories(SearchBox.Text)
+	Status.Text = "Loaded categories"
+end
+
+ReloadBtn.MouseButton1Click:Connect(DoReload)
+
+RunBtn.MouseButton1Click:Connect(function()
+	if Running then
+		Running = false
+		RunId += 1
+		RunBtn.Text = "RUN"
+		Status.Text = "Stopped"
+		return
+	end
+
+	if not Selected or not Categories[Selected] or #Categories[Selected] == 0 then
+		Status.Text = "Pick a category first"
+		return
+	end
+
+	Running = true
+	RunId += 1
+	local currentId = RunId
+	RunBtn.Text = "STOP"
+
+	task.spawn(function()
+		local words = Categories[Selected]
+		local box = GetAnswerBox()
+		for i, word in ipairs(words) do
+			if not Running or currentId ~= RunId then
+				return
+			end
+			box = box or GetAnswerBox()
+			Status.Text = string.format("[%d/%d] %s", i, #words, word)
+			SendWordFast(word, box)
+			task.wait(STEP_DELAY)
+		end
+		if Running and currentId == RunId then
+			Running = false
+			RunBtn.Text = "RUN"
+			Status.Text = "Done"
+		end
+	end)
+end)
+
+task.spawn(DoReload)
