@@ -874,3 +874,1204 @@ Rutabaga
 Jerusalem artichoke
 Edamame
 Snow pea
+[đồ uống]
+Coffee
+Espresso
+Americano
+Cappuccino
+Latte
+Mocha
+Macchiato
+Flat white
+Affogato
+Cortado
+Ristretto
+Doppio
+Cold brew
+Iced coffee
+Frappuccino
+Irish coffee
+Turkish coffee
+Vietnamese coffee
+Decaf coffee
+Cafe au lait
+Black tea
+Green tea
+White tea
+Oolong tea
+Matcha
+Chai
+Milk tea
+Bubble tea
+Thai tea
+Earl Grey
+English breakfast tea
+Chamomile tea
+Peppermint tea
+Ginger tea
+Hibiscus tea
+Rooibos tea
+Jasmine tea
+Iced tea
+Lemon tea
+Peach tea
+Coca-Cola
+Pepsi
+Sprite
+Fanta
+Dr Pepper
+Mountain Dew
+7 Up
+Root beer
+Ginger ale
+Tonic water
+Club soda
+Cream soda
+Sarsaparilla
+Orange soda
+Grape soda
+Lemon-lime soda
+Cherry cola
+Shirley Temple
+Sparkling water
+Energy drink
+Orange juice
+Apple juice
+Grape juice
+Pineapple juice
+Cranberry juice
+Tomato juice
+Carrot juice
+Lemonade
+Limeade
+Grapefruit juice
+Mango juice
+Guava juice
+Pomegranate juice
+Watermelon juice
+Coconut water
+Passion fruit juice
+Lychee juice
+Pear juice
+Prune juice
+Fruit punch
+Milk
+Chocolate milk
+Strawberry milk
+Banana milk
+Soy milk
+Almond milk
+Oat milk
+Coconut milk
+Buttermilk
+Milkshake
+Chocolate shake
+Vanilla shake
+Strawberry shake
+Banana shake
+Malted milk
+Eggnog
+Horchata
+Lassi
+Kefir
+Yakult
+Smoothie
+Green smoothie
+Protein shake
+Fruit smoothie
+Acai smoothie
+Mango lassi
+Virgin mojito
+Mojito
+Margarita
+Piña colada
+Daiquiri
+Martini
+Cosmopolitan
+Bloody Mary
+Mai Tai
+Sangria
+Mimosa
+Aperol Spritz
+Negroni
+Gin and tonic
+Hot chocolate
+Cocoa
+Chai latte
+Matcha latte
+Turmeric latte
+Golden milk
+Apple cider
+Mulled wine
+Kombucha
+Mineral water
+Distilled water
+Iced chocolate
+Slushie
+Snow cone
+Sherbet punch
+Aloe vera drink
+Barley tea
+Sake
+Mead
+Champagne
+[siêu anh hùng và ác nhân]
+Superman
+Batman
+Spider-Man
+Iron Man
+Captain America
+Thor
+Hulk
+Black Panther
+Doctor Strange
+Ant-Man
+Wolverine
+Deadpool
+Daredevil
+Punisher
+Green Lantern
+Flash
+Wonder Woman
+Aquaman
+Shazam
+Green Arrow
+Hawkeye
+Black Widow
+Scarlet Witch
+Vision
+Falcon
+War Machine
+Moon Knight
+Ghost Rider
+Blade
+Nightwing
+Robin
+Batgirl
+Supergirl
+Cyborg
+Beast Boy
+Raven
+Starfire
+Static
+Blue Beetle
+Booster Gold
+Martian Manhunter
+The Atom
+Firestorm
+Zatanna
+Constantine
+Plastic Man
+Swamp Thing
+Hellboy
+Invincible
+Omni-Man
+Homelander
+The Boys
+Saitama
+Genos
+All Might
+Deku
+Bakugo
+Shoto Todoroki
+Endeavor
+Mirko
+Aizawa
+Hawks
+Goku
+Vegeta
+Trunks
+Gohan
+Piccolo
+Frieza
+Sonic
+Shadow
+Knuckles
+Tails
+Silver
+Mega Man
+Zero
+Kirby
+Samus
+Link
+Zelda
+Lara Croft
+Kratos
+Master Chief
+Doom Slayer
+Cloud Strife
+Sephiroth
+Jotaro Kujo
+Dio Brando
+Tanjiro Kamado
+Nezuko Kamado
+Gojo Satoru
+Yuji Itadori
+Naruto Uzumaki
+Sasuke Uchiha
+Kakashi Hatake
+Luffy
+Zoro
+Sanji
+Ichigo Kurosaki
+Aizen
+Mob
+Eren Yeager
+Levi Ackerman
+Armin Arlert
+Edward Elric
+Alphonse Elric
+Supervillains
+Joker
+Harley Quinn
+Lex Luthor
+Darkseid
+Brainiac
+Doomsday
+General Zod
+Bizarro
+Reverse-Flash
+Zoom
+Sinestro
+Black Adam
+Deathstroke
+Bane
+Riddler
+Penguin
+Scarecrow
+Two-Face
+Poison Ivy
+Mr. Freeze
+Killer Croc
+Ra's al Ghul
+Hush
+Deadshot
+Black Manta
+Ocean Master
+Cheetah
+Ares
+Circe
+Steppenwolf
+Lobo
+Ultron
+Thanos
+Loki
+Green Goblin
+Doctor Octopus
+Venom
+Carnage
+Mysterio
+Vulture
+Sandman
+Electro
+Kingpin
+Magneto
+Mystique
+Sabretooth
+Apocalypse
+Juggernaut
+Sentinel
+Doctor Doom
+Red Skull
+Hydra
+Kang
+Dormammu
+Mephisto
+Galactus
+Hela
+Killmonger
+Abomination
+Leader
+MODOK
+Taskmaster
+Crossbones
+Winter Soldier
+Ronin
+Ego
+Ronan
+Annihilus
+Blackheart
+Baron Zemo
+Yellowjacket
+Whiplash
+Shocker
+Lizard
+Kraven
+Morbius
+Prowler
+Lady Deathstrike
+Onslaught
+Surtur
+Malekith
+Kingpin
+Fisk
+Toji Fushiguro
+Ryomen Sukuna
+Mahito
+Kenjaku
+Muzan Kibutsuji
+Akaza
+Doma
+Kokushibo
+Orochimaru
+Madara Uchiha
+Obito Uchiha
+Pain
+Itachi Uchiha
+Kaguya Otsutsuki
+Blackbeard
+Kaido
+Big Mom
+Doflamingo
+Crocodile
+Enel
+Rob Lucci
+Sosuke Aizen
+Yhwach
+Griffith
+Frieza
+Cell
+Majin Buu
+Broly
+Raditz
+Zamasu
+King Piccolo
+Dr. Gero
+Shadow the Hedgehog
+Dr. Eggman
+Metal Sonic
+Mephiles
+Bowser
+Ganondorf
+Ridley
+Wesker
+Albert Wesker
+Nemesis
+Pyramid Head
+Sephiroth
+Vaas Montenegro
+Far Cry 3
+Handsome Jack
+Aku
+Vilgax
+Slade
+Trigon
+Blackfire
+Zoom
+Omni-Man
+Thragg
+Conquest
+Battle Beast
+Angstrom Levy
+The Immortal
+Tighten
+Syndrome
+Tai Lung
+Shredder
+Krang
+Bebop
+Rocksteady
+Lord Shen
+Scar
+Jafar
+Maleficent
+Hades
+Cruella de Vil
+Captain Hook
+Voldemort
+Bellatrix Lestrange
+Sauron
+Saruman
+Moriarty
+Dracula
+Pennywise
+Vecna
+The Wicked Witch
+White Witch
+Red Queen
+Agent Smith
+Megatron
+Starscream
+Galvatron
+Unicron
+Darth Vader
+Palpatine
+Kylo Ren
+Count Dooku
+General Grievous
+Boba Fett
+Jabba the Hutt
+Nurse Ratched
+[những thứ phát sáng]
+Fire
+Flame
+Sun
+Moon
+Star
+Lightning
+Aurora
+Rainbow
+Firefly
+Glowworm
+Neon sign
+Glow stick
+Light bulb
+LED
+Neon light
+Flashlight
+Lantern
+Streetlight
+Headlight
+Tail light
+Brake light
+Traffic light
+Candle
+Torch
+Lighter
+Campfire
+Bonfire
+Lava
+Magma
+Hot coal
+Spark
+Electric spark
+Laser
+Laser pointer
+Laser beam
+Light saber
+Plasma ball
+Blacklight
+UV light
+Fluorescent light
+Glow paint
+Glow ink
+Glow powder
+Glow sticker
+Glow bracelet
+Glow necklace
+Glow ring
+Glow watch
+Glow star
+Glow ball
+Glow tape
+Glow rope
+Glow wire
+LED strip
+LED screen
+Neon clock
+Digital clock
+Computer screen
+Phone screen
+TV screen
+Monitor
+Keyboard
+Gaming mouse
+RGB keyboard
+RGB mouse
+Arc reactor
+Reactor core
+Energy core
+Power core
+Battery
+Electric arc
+Electricity
+Electric fence
+Electric tower
+Power plant
+Firework
+Sparkler
+Roman candle
+Flare
+Signal flare
+Road flare
+Emergency light
+Exit sign
+Nightlight
+Lava lamp
+Oil lamp
+Gas lamp
+Oil lantern
+Paper lantern
+Chinese lantern
+Sky lantern
+Jack-o'-lantern
+Christmas lights
+Fairy lights
+String lights
+Decorative lights
+Chandelier
+Street lamp
+Spotlight
+Searchlight
+Floodlight
+Stage light
+Disco ball
+Projector
+Camera flash
+Light prism
+Crystal
+Diamond
+Ruby
+Emerald
+Sapphire
+Opal
+Pearl
+Gold
+Silver
+Glowing eyes
+Red eyes
+Blue eyes
+Green eyes
+Fire eyes
+Neon eyes
+Glow mushrooms
+Mushroom
+Glow algae
+Firefly
+Jellyfish
+Squid
+Octopus
+Anglerfish
+Lanternfish
+Dragonfish
+Viperfish
+Electric eel
+Electric ray
+Electric catfish
+Bioluminescent plankton
+Sea sparkle
+Glow worm
+Fluorescent minerals
+Uranium glass
+Glow glass
+Glow plastic
+Glow fabric
+Glow shoes
+Glow jacket
+Glow costume
+Glow mask
+Glow helmet
+Glow sword
+Magic wand
+Magic staff
+Magic sword
+Magic potion
+Magic orb
+Magic crystal
+Magic stone
+Magic circle
+Magic rune
+Magic portal
+Ghost
+Spirit
+Fairy
+Phoenix
+Dragon
+Angel
+Demon
+Fire elemental
+Lightning elemental
+Ice elemental
+Light elemental
+Blue flame
+Green flame
+Purple flame
+White flame
+Black flame
+Holy light
+Divine light
+Solar flare
+Meteor
+Comet
+Shooting star
+Supernova
+Space
+Galaxy
+Nebula
+Black hole
+Cosmic energy
+Stardust
+Moonlight
+Sunlight
+Dawn
+Sunrise
+Sunset
+Northern lights
+Southern lights
+Sky
+Glowing cloud
+Glowing water
+Glowing sea
+Glowing forest
+Glowing flower
+Glowing leaves
+Glowing grass
+Glowing stone
+Glowing rock
+Glowing sand
+Glowing snow
+Glowing ice
+Glowing fire
+Glowing lava
+Glowing smoke
+Glowing fog
+Glowing mist
+Glowing outline
+Glowing aura
+Glowing halo
+Glowing heart
+Glowing wings
+Glowing crown
+Glowing cross
+Glowing sign
+Glowing logo
+Glowing symbol
+Glowing letters
+Glowing numbers
+Glowing dots
+Glowing lines
+Glowing patterns
+Glowing tattoos
+Neon art
+Light painting
+Neon graffiti
+Light sculpture
+Optical fiber
+Fiber optics
+LED lamp
+Neon tube
+Light tube
+Light panel
+Light box
+Light curtain
+Light fountain
+Waterfall
+Reflective mirror
+Reflective glass
+Prism
+Hologram
+Holographic display
+Laser show
+Light show
+Fire show
+Flame thrower
+Welding torch
+Blowtorch
+Arc welding
+Electric generator
+Tesla coil
+Electric motor
+Electric train
+Electric car
+Electric scooter
+Electric bike
+Electric sign
+Neon billboard
+illuminated billboard
+[vũ khí]
+Sword
+Dagger
+Knife
+Katana
+Longsword
+Shortsword
+Broadsword
+Claymore
+Rapier
+Sabre
+Scimitar
+Falchion
+Machete
+Bowie knife
+Butterfly knife
+Karambit
+Kunai
+Shuriken
+Throwing knife
+Axe
+Battle axe
+Hatchet
+Tomahawk
+War hammer
+Mace
+Morning star
+Flail
+Club
+Cudgel
+Staff
+Quarterstaff
+Spear
+Lance
+Pike
+Trident
+Halberd
+Glaive
+Poleaxe
+Scythe
+Pitchfork
+Crossbow
+Longbow
+Shortbow
+Compound bow
+Recurve bow
+Arrow
+Bolt
+Slingshot
+Sling
+Blowgun
+Dart
+Javelin
+Harpoon
+Whip
+Chain
+Brass knuckles
+Shield
+Buckler
+Tower shield
+Battle shield
+Helmet
+Armor
+Breastplate
+Gauntlets
+Greaves
+Ammunition
+Cannon
+Cannonball
+Ballista
+Catapult
+Trebuchet
+Mortar
+Grenade
+Smoke bomb
+Flashbang
+Molotov cocktail
+Dynamite
+Landmine
+Claymore mine
+Rocket
+Missile
+Torpedo
+Bomb
+Nuclear bomb
+Airstrike
+Flamethrower
+Turret
+Machine gun
+Minigun
+Gatling gun
+Shotgun
+Rifle
+Sniper rifle
+Assault rifle
+Submachine gun
+Pistol
+Revolver
+Handgun
+Musket
+Flintlock
+Blunderbuss
+AK-47
+M16
+M4
+MP5
+Uzi
+Glock
+Desert Eagle
+Colt
+Magnum
+AWP
+Barrett
+Dragunov
+P90
+FAMAS
+SCAR
+FAL
+AUG
+Vector
+BFG
+Railgun
+Plasma gun
+Laser gun
+Laser rifle
+Energy sword
+Lightsaber
+Chainsaw
+Power sword
+Warhammer
+Excalibur
+Mjolnir
+Trident
+Bow and arrow
+Sword and shield
+Twin blades
+Hidden blade
+Sai
+Tonfa
+Nunchaku
+Baton
+Taser
+Cross
+Holy sword
+Demon sword
+Magic sword
+Cursed blade
+ katana
+Giant sword
+Flaming sword
+Ice sword
+Lightning sword
+Poison dagger
+Golden sword
+Silver sword
+ obsidian sword
+Bone knife
+Stone axe
+War scythe
+Reaper scythe
+Dragon slayer
+Zweihander
+Berserker axe
+War bow
+Repeating crossbow
+Heavy crossbow
+Siege weapon
+Blowtorch
+Combat knife
+Bayonet
+Trench knife
+ kukri
+Panga
+Cleaver
+Shovel
+Spiked club
+Iron pipe
+Crowbar
+Wrench
+Hammer
+Brick
+Bottle
+Rock
+Fire extinguisher
+Improvised weapon
+Boomerang
+Disc
+Chakram
+Razor
+Wire
+Garrote
+Ice pick
+Pickaxe
+Drill
+Chains
+Morningstar
+Flanged mace
+War fork
+ sai
+ sai sword
+Gunsword
+Gunblade
+Rocket launcher
+Grenade launcher
+ bazooka
+Anti-tank gun
+Flak cannon
+Autocannon
+Heavy weapon
+Siege cannon
+Depth charge
+Mine
+Tripwire
+Trap
+Bear trap
+Spike trap
+Poison dart
+Blow dart
+Repeater
+Repeating rifle
+Lever action rifle
+Bolt action rifle
+Double barrel shotgun
+Pump action shotgun
+Semi automatic pistol
+Automatic pistol
+Machine pistol
+Sniper weapon
+Marksman rifle
+Hunting rifle
+Combat shotgun
+Firearm
+Weapon
+Arsenal
+Armory
+atlatl
+[phương tiện]
+Car
+Truck
+Bus
+Van
+Pickup truck
+Taxi
+Limousine
+Ambulance
+Fire truck
+Police car
+Race car
+Sports car
+Supercar
+Convertible
+Coupe
+Sedan
+Hatchback
+SUV
+Jeep
+Minivan
+Motorcycle
+Scooter
+Moped
+Bicycle
+Mountain bike
+Road bike
+BMX
+Tricycle
+Unicycle
+Electric bike
+Electric scooter
+Segway
+Skateboard
+Longboard
+Roller skates
+Inline skates
+Go kart
+Quad bike
+ATV
+Dirt bike
+Snowmobile
+Tractor
+Bulldozer
+Excavator
+Crane
+Forklift
+Dump truck
+Cement mixer
+Road roller
+Grader
+Backhoe
+Steamroller
+Tank
+Armored vehicle
+Military truck
+Humvee
+APC
+MRAP
+Patrol vehicle
+Caravan
+RV
+Motorhome
+Campervan
+Trailer
+Horse carriage
+Cart
+Wagon
+Rickshaw
+Tuk-tuk
+Auto rickshaw
+Pedicab
+Golf cart
+Bumper car
+Monorail
+Train
+Steam train
+Bullet train
+High-speed train
+Freight train
+Metro
+Subway
+Tram
+Streetcar
+Cable car
+Funicular
+Trolley
+Locomotive
+Railcar
+Aircraft
+Airplane
+Jet
+Fighter jet
+Bomber
+Cargo plane
+Passenger plane
+Airliner
+Helicopter
+Attack helicopter
+Chopper
+Glider
+Sailplane
+Seaplane
+Biplane
+Triplane
+Propeller plane
+Drone
+Quadcopter
+Hot air balloon
+Blimp
+Airship
+Zeppelin
+Paraglider
+Hang glider
+Rocket
+Space shuttle
+Spacecraft
+Spaceship
+Capsule
+Satellite
+Lunar rover
+Mars rover
+UFO
+Flying saucer
+Boat
+Ship
+Sailboat
+Yacht
+Speedboat
+Motorboat
+Fishing boat
+Rowboat
+Canoe
+Kayak
+Raft
+Catamaran
+Trimaran
+Dinghy
+Gondola
+Paddleboat
+Houseboat
+Ferry
+Cruise ship
+Cargo ship
+Container ship
+Oil tanker
+Tugboat
+Barge
+Battleship
+Aircraft carrier
+Submarine
+Destroyer
+Frigate
+Corvette
+Warship
+Lifeboat
+Hovercraft
+Jet ski
+Waverunner
+Surfboard
+Windsurf board
+Paddleboard
+Skateboard
+Snowboard
+Sled
+Sleigh
+Dog sled
+Wheelchair
+Mobility scooter
+Wheelbarrow
+Hand truck
+Shopping cart
+Baby stroller
+Pram
+Pushchair
+Roller coaster
+Ferris wheel
+Zipline
+Chairlift
+Ski lift
+Cableway
+Minecart
+Handcar
+Elevator
+Escalator
+Moving walkway
+Conveyor belt
+Bucket truck
+Cherry picker
+Street sweeper
+Garbage truck
+Recycling truck
+Delivery truck
+Tow truck
+Wrecker
+Snowplow
+Zamboni
+Hearse
+Limousine bus
+School bus
+Double-decker bus
+Articulated bus
+Trolleybus
+Coach
+Shuttle bus
+Road train
+Monster truck
+Dragster
+Formula One car
+Rally car
+Drift car
+Stock car
+Nascar car
+Dune buggy
+Beach buggy
+Amphibious vehicle
+All-terrain vehicle
+Tracked vehicle
+Tracked tractor
+Tracked loader
+Skid steer
+Pallet jack
+Reach truck
+Cherry picker
+Tower crane
+Mobile crane
+Crawler crane
+Overhead crane
+Aircraft tug
+Pushback tug
+Tractor trailer
+Semi-trailer truck
+Box truck
+Flatbed truck
+Tank truck
+Car transporter
+Logging truck
+Fire engine
+Rescue vehicle
+Command vehicle
+Armored personnel carrier
+Self-propelled gun
+Rocket truck
+Launch vehicle
+Space probe
+Interplanetary probe
+Orbiter
+Lander
+Reentry vehicle
+Escape pod
+Flying car
+Hover bike
+Hoverboard
+Mech
+Walker
+Battle mech
+Powered armor
+Exoskeleton
+Giant robot
+Transforming robot
+Autobot
+Decepticon
+Time machine
+Portal gun
+Teleportation device
+Magic carpet
+Flying broom
+Flying horse
+Pegasus
+Dragon
+Unicorn
