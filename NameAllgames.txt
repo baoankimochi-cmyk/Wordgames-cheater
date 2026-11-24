@@ -4352,3 +4352,2856 @@ Hot chocolate chocolate lift
 Hot chocolate chocolate elevation
 Hot chocolate chocolate promotion
 Hot chocolate chocolate advancement
+
+[ngôn ngữ]
+English
+Vietnamese
+Chinese
+Cantonese
+Japanese
+Korean
+Thai
+Lao
+Khmer
+Burmese
+Malay
+Indonesian
+Filipino
+Tagalog
+Spanish
+French
+German
+Italian
+Portuguese
+Brazilian Portuguese
+Russian
+Ukrainian
+Polish
+Czech
+Slovak
+Hungarian
+Romanian
+Bulgarian
+Serbian
+Croatian
+Bosnian
+Slovenian
+Macedonian
+Greek
+Turkish
+Arabic
+Hebrew
+Persian
+Urdu
+Hindi
+Bengali
+Punjabi
+Gujarati
+Marathi
+Tamil
+Telugu
+Kannada
+Malayalam
+Sinhala
+Nepali
+Tibetan
+Mongolian
+Kazakh
+Uzbek
+Turkmen
+Kyrgyz
+Tajik
+Azerbaijani
+Armenian
+Georgian
+Albanian
+Swedish
+Norwegian
+Danish
+Finnish
+Icelandic
+Dutch
+Flemish
+Afrikaans
+Swahili
+Zulu
+Xhosa
+Amharic
+Somali
+Hausa
+Yoruba
+Igbo
+Wolof
+Shona
+Kinyarwanda
+Kirundi
+Sesotho
+Setswana
+Luganda
+Maori
+Samoan
+Tongan
+Fijian
+Hawaiian
+Quechua
+Aymara
+Guarani
+Nahuatl
+Inuktitut
+Basque
+Catalan
+Galician
+Welsh
+Irish
+Scottish Gaelic
+Breton
+Latin
+Esperanto
+
+[thủ đô]
+Hanoi
+Beijing
+Tokyo
+Seoul
+Pyongyang
+Bangkok
+Vientiane
+Phnom Penh
+Naypyidaw
+Kuala Lumpur
+Singapore
+Jakarta
+Manila
+Bandar Seri Begawan
+Dili
+New Delhi
+Islamabad
+Dhaka
+Kathmandu
+Thimphu
+Colombo
+Male
+Ashgabat
+Tashkent
+Astana
+Bishkek
+Dushanbe
+Baku
+Yerevan
+Tbilisi
+Ankara
+Nicosia
+Jerusalem
+Amman
+Beirut
+Damascus
+Baghdad
+Tehran
+Kabul
+Riyadh
+Doha
+Manama
+Kuwait City
+Abu Dhabi
+Muscat
+Sanaa
+Cairo
+Khartoum
+Addis Ababa
+Nairobi
+Kampala
+Dodoma
+Mogadishu
+Djibouti
+Asmara
+Juba
+Kigali
+Bujumbura
+Kinshasa
+Brazzaville
+Libreville
+Yaounde
+Bangui
+N'Djamena
+Niamey
+Ouagadougou
+Bamako
+Dakar
+Banjul
+Conakry
+Freetown
+Monrovia
+Accra
+Lome
+Porto Novo
+Abuja
+Lagos
+Luanda
+Windhoek
+Gaborone
+Harare
+Lusaka
+Maputo
+Antananarivo
+Moroni
+Port Louis
+Pretoria
+Cape Town
+Tunis
+Algiers
+Rabat
+Tripoli
+Nouakchott
+Madrid
+Lisbon
+Paris
+London
+Dublin
+Amsterdam
+Brussels
+Luxembourg
+Berlin
+Bern
+Vienna
+Rome
+Vatican City
+San Marino
+Monaco
+Andorra la Vella
+Prague
+Bratislava
+Warsaw
+Budapest
+Bucharest
+Belgrade
+Zagreb
+Sarajevo
+Podgorica
+Skopje
+Tirana
+Athens
+Chisinau
+Kyiv
+Minsk
+Moscow
+Riga
+Tallinn
+Vilnius
+Stockholm
+Oslo
+Copenhagen
+Helsinki
+Reykjavik
+Ottawa
+Washington DC
+Mexico City
+Guatemala City
+Belmopan
+Tegucigalpa
+San Salvador
+Managua
+San Jose
+Panama City
+Havana
+Kingston
+Port au Prince
+Santo Domingo
+Nassau
+Bridgetown
+Castries
+Roseau
+St John's
+St George's
+Kingstown
+Port of Spain
+Caracas
+Bogota
+Quito
+Lima
+La Paz
+Sucre
+Santiago
+Buenos Aires
+Montevideo
+Asuncion
+Brasilia
+Georgetown
+Paramaribo
+Cayenne
+Canberra
+Wellington
+Port Moresby
+Suva
+Honiara
+Nuku'alofa
+Apia
+Funafuti
+Majuro
+Palikir
+Tarawa
+Yaren
+
+[nhân vật hoạt hình]
+Mickey Mouse
+Minnie Mouse
+Donald Duck
+Daisy Duck
+Goofy
+Scrooge McDuck
+Huey
+Dewey
+Louie
+Bugs Bunny
+Daffy Duck
+Porky Pig
+Tweety
+Sylvester
+Road Runner
+Wile E Coyote
+Lola Bunny
+Elmer Fudd
+Tom
+Jerry
+Spike
+Tyke
+Droopy
+Scooby Doo
+Shaggy Rogers
+Fred Jones
+Daphne Blake
+Velma Dinkley
+Scrappy Doo
+SpongeBob SquarePants
+Patrick Star
+Squidward Tentacles
+Sandy Cheeks
+Mr Krabs
+Plankton
+Gary
+Mr Puff
+Krusty Krab
+Popeye
+Olive Oyl
+Bluto
+Betty Boop
+Felix the Cat
+Garfield
+Odie
+Jon Arbuckle
+Charlie Brown
+Snoopy
+Lucy van Pelt
+Linus van Pelt
+Woodstock
+Peanuts
+Arthur Read
+Buster Baxter
+Francine Frensky
+D.W. Read
+Caillou
+Clifford
+Emily Elizabeth
+Blue
+Joe
+Boots
+Swiper
+Diego
+Peppa Pig
+George Pig
+Mummy Pig
+Daddy Pig
+Suzy Sheep
+Rebecca Rabbit
+Danny Dog
+Pedro Pony
+Pocoyo
+Pato
+Elly
+Shaun the Sheep
+Bitzer
+Timmy
+Wallace
+Gromit
+Morph
+Chicken Run
+Shrek
+Puss in Boots
+Po
+Tigress
+Shifu
+Kung Fu Panda
+Hiccup
+Toothless
+Astrid
+Stoick
+Ruffnut
+Tuffnut
+Kuzco
+Pacha
+Kronk
+Yzma
+Lilo
+Stitch
+Nani
+Jumba
+Pleakley
+Mowgli
+Baloo
+Bagheera
+Shere Khan
+Kaa
+King Louie
+Simba
+Nala
+Timon
+Pumbaa
+Rafiki
+Zazu
+Bambi
+Thumper
+Flower
+Dumbo
+Pinocchio
+Jiminy Cricket
+Cinderella
+Ariel
+Belle
+Rapunzel
+Olaf
+Mulan
+Tiana
+Moana
+Maui
+Aladdin
+Genie
+Hercules
+Megara
+Tarzan
+Jane Porter
+Winnie the Pooh
+Tigger
+Piglet
+Eeyore
+Christopher Robin
+Dory
+Nemo
+Crush
+Lightning McQueen
+Mater
+Sally Carrera
+Tow Mater
+Remy
+Linguini
+Emile
+Ratatouille
+Mike Wazowski
+Sulley
+Boo
+Randall
+Woody
+Buzz Lightyear
+Jessie
+Forky
+Lotso
+Mr Potato Head
+Mrs Potato Head
+Rex
+Hamm
+Zootopia
+Judy Hopps
+Nick Wilde
+Chief Bogo
+Duke Weaselton
+Pawbert
+Bear
+Boris
+Benny
+Molang
+Piu Piu
+
+[vật dụng trong trường học]
+Backpack
+School bag
+Book
+Notebook
+Exercise book
+Textbook
+Workbook
+Dictionary
+Pencil
+Pen
+Ballpoint pen
+Fountain pen
+Marker
+Highlighter
+Crayon
+Colored pencil
+Pencil case
+Pencil sharpener
+Eraser
+Ruler
+Compass
+Protractor
+Set square
+Calculator
+Scientific calculator
+Stapler
+Staples
+Paper clip
+Binder clip
+Scissors
+Glue stick
+Liquid glue
+Tape
+Correction tape
+Correction fluid
+Sticky notes
+Index cards
+Flashcards
+Folder
+Ring binder
+Clipboard
+Paper
+Graph paper
+Construction paper
+Printer paper
+Poster board
+Whiteboard
+Blackboard
+Chalk
+Whiteboard marker
+Board eraser
+Desk
+Chair
+Teacher desk
+Student desk
+Table
+Bookshelf
+Locker
+Cabinet
+School clock
+Wall clock
+Notice board
+Bulletin board
+Map
+Globe
+Atlas
+Laptop
+Computer
+Tablet
+Mouse
+Printer
+Screen
+Speaker
+Headphones
+Microphone
+USB drive
+Power cable
+Extension cord
+Socket
+Light switch
+Ceiling fan
+Air conditioner
+Trash bin
+Recycle bin
+Water bottle
+Lunch box
+Thermos
+Cup
+Plate
+Fork
+Spoon
+Napkin
+Uniform
+Tie
+School badge
+Name tag
+ID card
+Lanyard
+Shoes
+Slippers
+Sports shoes
+Basketball
+Football
+Volleyball
+Badminton racket
+Shuttlecock
+Tennis racket
+Jump rope
+Gym mat
+Cones
+Whistle
+First aid kit
+Bandage
+Hand sanitizer
+Soap
+Tissue box
+Paper towel
+Broom
+Dustpan
+Mop
+Bucket
+Cleaning cloth
+
+[vật dụng trong nhà]
+Sofa
+Armchair
+Coffee table
+Dining table
+Stool
+Bench
+Bed
+Mattress
+Pillow
+Pillowcase
+Blanket
+Duvet
+Bedsheet
+Bed frame
+Wardrobe
+Closet
+Drawer
+Chest of drawers
+Nightstand
+Dresser
+Mirror
+Full length mirror
+Hanger
+Laundry basket
+Clothes rack
+Curtain
+Blinds
+Rug
+Carpet
+Doormat
+Floor lamp
+Table lamp
+Ceiling lamp
+Clock
+Alarm clock
+Picture frame
+Painting
+Vase
+Flower pot
+Plant
+Cushion
+Throw pillow
+Magazine
+Remote control
+Television
+TV stand
+Radio
+Fan
+Humidifier
+Dehumidifier
+Vacuum cleaner
+Cleaning brush
+Sponge
+Dishcloth
+Towel
+Hand towel
+Bath towel
+Toilet paper
+Trash can
+Recycling bin
+Laundry detergent
+Fabric softener
+Ironing board
+Washing machine
+Dryer
+Dishwasher
+Refrigerator
+Freezer
+Cooktop
+Range hood
+Blender
+Mixer
+Food processor
+Rice cooker
+Slow cooker
+Pot
+Pan
+Saucepan
+Wok
+Baking tray
+Cutting board
+Kitchen scissors
+Spatula
+Ladle
+Whisk
+Tongs
+Peeler
+Grater
+Can opener
+Bottle opener
+Measuring cup
+Measuring spoon
+Colander
+Sieve
+Bowl
+Mug
+Wine glass
+Teaspoon
+Chopsticks
+Serving tray
+Salt shaker
+Pepper shaker
+Oil bottle
+Storage jar
+Dish rack
+Oven mitt
+Apron
+
+[vật dụng trong sân bay]
+Boarding pass
+Passport
+Visa
+Ticket
+Flight ticket
+Carry-on bag
+Suitcase
+Luggage
+Luggage tag
+Duffel bag
+Travel pillow
+Neck pillow
+Eye mask
+Earplugs
+Phone
+Charger
+Power bank
+Adapter
+Camera
+Wallet
+Purse
+Watch
+Sunglasses
+Reading glasses
+Travel guide
+Coffee cup
+Snack
+Sandwich
+Luggage cart
+Check-in counter
+Self check-in kiosk
+Bag drop counter
+Security tray
+Plastic bin
+Metal detector
+Body scanner
+X-ray machine
+Security belt
+Queue barrier
+Airport sign
+Flight information screen
+Departure board
+Arrival board
+Gate number
+Gate sign
+Boarding gate
+Gate desk
+Waiting chair
+Airport bench
+Airport lounge
+Lounge chair
+Charging station
+USB port
+Power outlet
+Wi-Fi sign
+Information desk
+Help desk
+Customer service desk
+Currency exchange booth
+ATM
+Duty-free bag
+Shopping bag
+Food tray
+Restaurant table
+Cafe counter
+Vending machine
+Water fountain
+Restroom sign
+Toilet
+Sink
+Soap dispenser
+Hand dryer
+Paper towel dispenser
+Emergency exit sign
+Airport wheelchair
+Stroller
+Baby carrier
+Pet carrier
+Baggage carousel
+Carousel number sign
+Baggage claim ticket
+Lost luggage form
+Oversized baggage counter
+Passport scanner
+Biometric gate
+Immigration desk
+Customs desk
+Customs declaration form
+Arrival card
+Departure card
+Stamp
+Boarding announcement speaker
+PA system
+Air traffic control tower
+Runway
+Taxiway
+Jet bridge
+Airplane stairs
+Ground power unit
+Baggage tractor
+Belt loader
+Fuel truck
+Catering truck
+Airport bus
+Taxi stand
+Car rental desk
+Parking ticket
+Parking meter
+
+[nhân vật anime]
+Sakura Haruno
+Hinata Hyuga
+Shikamaru Nara
+Gaara
+Rock Lee
+Neji Hyuga
+Tsunade
+Jiraiya
+Boruto Uzumaki
+Sarada Uchiha
+Monkey D Luffy
+Roronoa Zoro
+Usopp
+Tony Tony Chopper
+Nico Robin
+Franky
+Brook
+Jinbe
+Shanks
+Portgas D Ace
+Sabo
+Trafalgar Law
+Boa Hancock
+Buggy
+Bulma
+Krillin
+Tatsumaki
+Garou
+Izuku Midoriya
+Katsuki Bakugo
+Ochaco Uraraka
+Tenya Iida
+Eijiro Kirishima
+Shota Aizawa
+Dabi
+Tomura Shigaraki
+Himiko Toga
+Zenitsu Agatsuma
+Inosuke Hashibira
+Kanao Tsuyuri
+Giyu Tomioka
+Shinobu Kocho
+Rengoku Kyojuro
+Megumi Fushiguro
+Nobara Kugisaki
+Sukuna
+Maki Zenin
+Yuta Okkotsu
+Mikasa Ackerman
+Erwin Smith
+Reiner Braun
+Annie Leonhart
+Hange Zoe
+Roy Mustang
+Winry Rockbell
+Riza Hawkeye
+Light Yagami
+L
+L Lawliet
+Misa Amane
+Ryuk
+Near
+Mello
+Rukia Kuchiki
+Renji Abarai
+Orihime Inoue
+Uryu Ishida
+Joseph Joestar
+Josuke Higashikata
+Giorno Giovanna
+Jonathan Joestar
+Killua Zoldyck
+Gon Freecss
+Kurapika
+Leorio
+Hisoka
+Chrollo Lucilfer
+Meruem
+Shinichi Kudo
+Ran Mouri
+Conan Edogawa
+Kaito Kid
+Natsu Dragneel
+Lucy Heartfilia
+Erza Scarlet
+Gray Fullbuster
+Wendy Marvell
+Happy
+Kirito
+Asuna
+Sinon
+Klein
+Asta
+Yuno
+Noelle Silva
+Yami Sukehiro
+Denji
+Power
+Aki Hayakawa
+Makima
+Kobeni Higashiyama
+Reze
+Anya Forger
+Loid Forger
+Yor Forger
+Bond Forger
+Sailor Moon
+Usagi Tsukino
+Mamoru Chiba
+Sakura Kinomoto
+Tomoyo Daidouji
+Syaoran Li
+Inuyasha
+Kagome Higurashi
+Sesshomaru
+Miroku
+Sango
+Kikyo
+Ash Ketchum
+Misty
+Brock
+Team Rocket
+Doraemon
+Nobita Nobi
+Shizuka Minamoto
+Takeshi Goda
+Suneo Honekawa
+Shin Chan
+Himawari Nohara
+Kuroko Tetsuya
+Taiga Kagami
+Hinata Shoyo
+Kageyama Tobio
+Kenma Kozume
+Toru Oikawa
+Sakusa Kiyoomi
+Bocchi
+Hitori Gotoh
+Miyuki Shirogane
+Kaguya Shinomiya
+Chika Fujiwara
+
+[các món tráng miệng]
+Cake
+Cupcake
+Cookie
+Chocolate chip cookie
+Macaron
+Muffin
+Donut
+Doughnut
+Cheesecake
+Tiramisu
+Panna cotta
+Creme brulee
+Flan
+Custard
+Pudding
+Rice pudding
+Bread pudding
+Pumpkin pie
+Cherry pie
+Blueberry pie
+Lemon pie
+Key lime pie
+Pecan pie
+Banoffee pie
+Coconut cream pie
+Tart
+Fruit tart
+Lemon tart
+Egg tart
+Chocolate tart
+Strawberry tart
+Pavlova
+Meringue
+Souffle
+Churros
+Waffle
+Pancake
+Crepe
+French toast
+Funnel cake
+Cannoli
+Baklava
+Biscotti
+Shortbread
+Scone
+Madeleine
+Eclair
+Profiterole
+Cream puff
+Danish pastry
+Croissant
+Pain au chocolat
+Strudel
+Cinnamon roll
+Sticky bun
+Brioche
+Fudge
+Truffle
+Chocolate bar
+Chocolate mousse
+Molten cake
+Red velvet cake
+Carrot cake
+Black forest cake
+Angel food cake
+Sponge cake
+Chiffon cake
+Pound cake
+Bundt cake
+Layer cake
+Ice cream
+Gelato
+Sorbet
+Sherbet
+Frozen yogurt
+Soft serve
+Popsicle
+Ice pop
+Kulfi
+Snow ice
+shaved ice
+Halo halo
+Bingsu
+Granita
+Banana split
+Sundae
+Float
+Fruit salad
+Fruit parfait
+Yogurt parfait
+Jelly
+Jello
+Gummy candy
+Marshmallow
+Cotton candy
+Candied apple
+Caramel apple
+Toffee
+Nougat
+Praline
+Peanut brittle
+Lollipop
+Hard candy
+Peppermint candy
+Turkish delight
+Dango
+Mochi
+Daifuku
+Dorayaki
+Taiyaki
+Anmitsu
+Warabi mochi
+Castella
+Yokan
+Manju
+Melon pan
+Shokupan
+Tangyuan
+Mooncake
+Sesame ball
+Egg waffle
+Pineapple bun
+Red bean bun
+Lotus seed pastry
+Sachima
+Haw flakes
+Ching chong candy
+Kheer
+Gulab jamun
+Jalebi
+Rasmalai
+Rasgulla
+Barfi
+Ladoo
+Kulfi falooda
+Shahi tukda
+Kaju katli
+Gajar halwa
+Rabri
+Sandesh
+Mishti doi
+Peda
+Modak
+Payasam
+Kesari
+Kozhukattai
+Appam
+Puttu
+Kuih
+Kuih lapis
+Kuih seri muka
+Kuih talam
+Onde-onde
+Klepon
+Pisang goreng
+Cendol
+Es campur
+Es doger
+Ais kacang
+Kue cubit
+Martabak manis
+Serabi
+Bika ambon
+Dadar gulung
+Kue lapis
+Kue putu
+Kue pukis
+Kue sus
+Kue nastar
+Kue kastengel
+Kue semprit
+Kue bolu
+Kue klepon
+Kue lapis legit
+Kue cucur
+Kue pancong
+Kue apem
+Kue wajik
+Kue talam
+Kue lumpur
+Kue rangi
+Kue carabikang
+Kue mendut
+Kue bugis
+Kue ku
+Kue mangkok
+Kue soes
+Kue sagu
+Kue putri salju
+Kue bangkit
+Kue pepe
+Kue lapis beras
+Kue lapis pandan
+Kue lapis surabaya
+Kue lapis singkong
+Kue lapis tepung
+Kue lapis coklat
+Kue lapis susu
+Kue lapis durian
+Kue lapis nanas
+Kue lapis ubi
+Kue lapis ketan
+Kue lapis gula
+Kue lapis kelapa
+Kue lapis pisang
+Kue lapis mangga
+Kue lapis strawberry
+Kue lapis blueberry
+Kue lapis lemon
+Kue lapis vanilla
+Kue lapis caramel
+Kue lapis cheese
+Kue lapis cream
+Kue lapis mousse
+Kue lapis pudding
+Kue lapis jelly
+Kue lapis custard
+Kue lapis pastry
+Kue lapis biscuit
+Kue lapis waffle
+Kue lapis pancake
+Kue lapis brownie
+Kue lapis cookie
+Kue lapis tart
+Kue lapis pie
+Kue lapis muffin
+Kue lapis cupcake
+Kue lapis donut
+Kue lapis marshmallow
+Kue lapis meringue
+Kue lapis chocolate
+Kue lapis fruit
+Kue lapis nut
+Kue lapis honey
+Kue lapis cinnamon
+Kue lapis coffee
+Kue lapis matcha
+Kue lapis coconut
+Kue lapis almond
+Kue lapis hazelnut
+Kue lapis pistachio
+Kue lapis peanut
+Kue lapis cashew
+Kue lapis pecan
+Kue lapis walnut
+Kue lapis macadamia
+Kue lapis raisin
+Kue lapis fig
+Kue lapis date
+Kue lapis prune
+Kue lapis cherry
+Kue lapis apple
+Kue lapis pear
+Kue lapis peach
+Kue lapis apricot
+Kue lapis plum
+Kue lapis grape
+Kue lapis kiwi
+Kue lapis melon
+Kue lapis watermelon
+Kue lapis papaya
+Kue lapis guava
+Kue lapis lychee
+Kue lapis longan
+Kue lapis rambutan
+Kue lapis dragonfruit
+Kue lapis passionfruit
+Kue lapis pomelo
+Kue lapis orange
+Kue lapis mandarin
+Kue lapis lime
+Kue lapis grapefruit
+Kue lapis banana
+Kue lapis pineapple
+Kue lapis mango
+Kue lapis jackfruit
+Kue lapis avocado
+Kue lapis berry
+Kue lapis raspberry
+Kue lapis blackberry
+Kue lapis cranberry
+Kue lapis currant
+Kue lapis gooseberry
+Kue lapis mulberry
+Kue lapis elderberry
+Kue lapis boysenberry
+Kue lapis loganberry
+Kue lapis cloudberry
+Kue lapis lingonberry
+Kue lapis bilberry
+Kue lapis acai
+Kue lapis banana split
+Kue lapis ice cream
+Kue lapis gelato
+Kue lapis sorbet
+Kue lapis yogurt
+Kue lapis milk
+Kue lapis cream cheese
+Kue lapis ricotta
+Kue lapis mascarpone
+Kue lapis cottage cheese
+Kue lapis goat cheese
+Kue lapis cheddar
+Kue lapis mozzarella
+Kue lapis parmesan
+Kue lapis blue cheese
+Kue lapis brie
+Kue lapis camembert
+Kue lapis feta
+Kue lapis gouda
+Kue lapis swiss
+Kue lapis provolone
+Kue lapis gruyere
+Kue lapis emmental
+Kue lapis stilton
+Kue lapis gorgonzola
+Kue lapis roquefort
+Kue lapis manchego
+Kue lapis pecorino
+Kue lapis halloumi
+Kue lapis paneer
+Kue lapis queso
+Kue lapis chocolate fudge
+Kue lapis caramel fudge
+Kue lapis peanut butter
+Kue lapis cookie dough
+Kue lapis brownie batter
+Kue lapis cake batter
+Kue lapis lemon curd
+Kue lapis orange curd
+Kue lapis lime curd
+Kue lapis passion curd
+Kue lapis berry compote
+Kue lapis fruit compote
+Kue lapis cherry compote
+Kue lapis apple compote
+Kue lapis pear compote
+Kue lapis peach compote
+Kue lapis plum compote
+Kue lapis mango compote
+Kue lapis pineapple compote
+Kue lapis strawberry compote
+Kue lapis blueberry compote
+Kue lapis raspberry compote
+Kue lapis blackberry compote
+Kue lapis cranberry compote
+Kue lapis vanilla bean
+Kue lapis cocoa
+Kue lapis dark chocolate
+Kue lapis white chocolate
+Kue lapis milk chocolate
+Kue lapis ruby chocolate
+Kue lapis bittersweet chocolate
+Kue lapis semisweet chocolate
+Kue lapis unsweetened chocolate
+Kue lapis couverture
+Kue lapis ganache
+Kue lapis praline
+Kue lapis marzipan
+Kue lapis almond paste
+Kue lapis fondant
+Kue lapis royal icing
+Kue lapis buttercream
+Kue lapis whipped cream
+Kue lapis chantilly
+Kue lapis pastry cream
+Kue lapis diplomat cream
+Kue lapis mousseline
+Kue lapis creme anglaise
+Kue lapis creme patissiere
+Kue lapis sabayon
+Kue lapis zabaglione
+Kue lapis semifreddo
+Kue lapis parfait
+Kue lapis mousse cake
+Kue lapis cheesecake
+Kue lapis icebox cake
+Kue lapis refrigerator cake
+Kue lapis no bake cake
+Kue lapis layered dessert
+
+[động vật]
+Puma
+Red wolf
+Arctic wolf
+Gray wolf
+Panda
+Raccoon
+Coati
+Kinkajou
+Skunk
+Badger
+Marten
+Weasel
+Otter
+Sea otter
+River otter
+Mink
+Ferret
+Meerkat
+Mongoose
+Hyena
+Aardwolf
+Civet
+Genet
+Binturong
+Fossa
+Banded palm civet
+Hedgehog
+Porcupine
+Tapir
+Horse
+Zebra
+Buffalo
+Cow
+Bull
+Ox
+Sheep
+Goat
+Antelope
+Kudu
+Eland
+Oryx
+Springbok
+Pronghorn
+Deer
+Fallow deer
+Sika deer
+Caribou
+Muntjac
+Water deer
+Pudu
+Pig
+Peccary
+Rhinoceros
+Squirrel
+Chipmunk
+Marmot
+Prairie dog
+Groundhog
+Beaver
+Muskrat
+Capybara
+Guinea pig
+Chinchilla
+Hamster
+Gerbil
+Rat
+Jerboa
+Dormouse
+Lemming
+Vole
+Mole
+Shrew
+Rabbit
+Hare
+Pika
+Possum
+Bandicoot
+Bilby
+Quokka
+Quoll
+Sugar glider
+Flying fox
+Fruit bat
+Vampire bat
+Pipistrelle
+Lemur
+Loris
+Bushbaby
+Squirrel monkey
+Marmoset
+Tamarin
+Colobus monkey
+Proboscis monkey
+Langur
+Vervet monkey
+Patas monkey
+Rhesus macaque
+Japanese macaque
+Bald eagle
+Golden eagle
+Harpy eagle
+Osprey
+Peregrine falcon
+Hawk
+Red-tailed hawk
+Kestrel
+Owl
+Barn owl
+Snowy owl
+Eagle owl
+Horned owl
+Puffin
+Emperor penguin
+King penguin
+Adelie penguin
+Gentoo penguin
+Macaroni penguin
+Chinstrap penguin
+Albatross
+Petrel
+Shearwater
+Frigatebird
+Pelican
+Cormorant
+Booby
+Gannet
+Heron
+Egret
+Stork
+Spoonbill
+Flamingo
+Ibis
+Sandhill crane
+Whooping crane
+Bittern
+Rail
+Coot
+Moorhen
+Pheasant
+Peacock
+Turkey
+Chicken
+Rooster
+Hen
+Duck
+Mallard
+Goose
+Swan
+Mute swan
+Black swan
+Wigeon
+Pintail
+Shoveler
+Wood duck
+Mandarin duck
+Muscovy duck
+Loon
+Grebe
+Grouse
+Ptarmigan
+Quail
+Partridge
+Guinea fowl
+Pigeon
+Dove
+Rock dove
+Turtle dove
+Cuckoo
+Roadrunner
+Kingfisher
+Bee-eater
+Roller
+Woodpecker
+Toucan
+Hornbill
+Parrot
+Macaw
+Cockatoo
+Budgerigar
+Lovebird
+Lorikeet
+Conure
+African gray parrot
+Amazon parrot
+Keel-billed toucan
+Hummingbird
+Swift
+Swallow
+Martin
+House sparrow
+Finch
+Goldfinch
+Cardinal
+Blue jay
+Crow
+Magpie
+Jackdaw
+Starling
+Blackbird
+Thrush
+Nightingale
+Mockingbird
+Wren
+Warbler
+Chickadee
+Titmouse
+Nuthatch
+Siskin
+Crossbill
+Bunting
+Lark
+Pipit
+Wagtail
+Waxwing
+Oriole
+Tanager
+Grosbeak
+Kookaburra
+Lyrebird
+Bowerbird
+Cassowary
+Emu
+Ostrich
+Rhea
+Secretary bird
+Shoebill
+Dodo
+Condor
+Buzzard
+Caracara
+Snake
+Cobra
+King cobra
+Python
+Boa constrictor
+Anaconda
+Viper
+Rattlesnake
+Copperhead
+Coral snake
+Krait
+Mamba
+Black mamba
+Taipan
+Garter snake
+Rat snake
+Corn snake
+Milk snake
+King snake
+Water snake
+Sea snake
+Blind snake
+Worm snake
+Banded krait
+Puff adder
+Gaboon viper
+Russell's viper
+Bushmaster
+Fer-de-lance
+Gecko
+Leopard gecko
+Tokay gecko
+Chameleon
+Iguana
+Green iguana
+Marine iguana
+Komodo dragon
+Monitor lizard
+Tegus
+Skink
+Anole
+Frilled lizard
+Bearded dragon
+Gila monster
+Horned lizard
+Glass lizard
+Basilisk
+Agama
+Uromastyx
+Turtle
+Tortoise
+Sea turtle
+Green sea turtle
+Loggerhead turtle
+Leatherback turtle
+Hawksbill turtle
+Olive ridley turtle
+Kemp's ridley turtle
+Galapagos tortoise
+Aldabra tortoise
+Box turtle
+Snapping turtle
+Alligator
+Gharial
+Caiman
+Frog
+Tree frog
+Bullfrog
+Poison dart frog
+Glass frog
+Golden poison frog
+Leopard frog
+Wood frog
+Pickerel frog
+Pacman frog
+Horned frog
+American toad
+Cane toad
+Natterjack toad
+Surinam toad
+Fire salamander
+Salamander
+Axolotl
+Newt
+Mudpuppy
+Hellbender
+Caecilian
+
+[sinh vật biển]
+Great white shark
+Tiger shark
+Bull shark
+Mako shark
+Nurse shark
+Reef shark
+Blacktip shark
+Whitetip shark
+Blue shark
+Greenland shark
+Cookiecutter shark
+Frilled shark
+Megamouth shark
+Wobbegong
+Angel shark
+Sawshark
+Sawfish
+Mobula ray
+Eagle ray
+Guitarfish
+Dolphin
+Common dolphin
+Spinner dolphin
+Risso's dolphin
+Dusky dolphin
+Pacific white-sided dolphin
+Atlantic white-sided dolphin
+Striped dolphin
+Commerson's dolphin
+Hector's dolphin
+Irrawaddy dolphin
+Amazon river dolphin
+Chinese river dolphin
+Vaquita
+Porpoise
+Harbor porpoise
+Dall's porpoise
+Finless porpoise
+Whale
+Fin whale
+Sei whale
+Bryde's whale
+Minke whale
+Gray whale
+Bowhead whale
+Right whale
+North Atlantic right whale
+Southern right whale
+Sperm whale
+Pygmy sperm whale
+Dwarf sperm whale
+Beaked whale
+Cuvier's beaked whale
+Baird's beaked whale
+Beluga whale
+Narwhal
+False killer whale
+Pilot whale
+Short-finned pilot whale
+Long-finned pilot whale
+Melon-headed whale
+Pygmy killer whale
+Sea lion
+Steller sea lion
+California sea lion
+Australian sea lion
+New Zealand sea lion
+Fur seal
+Northern fur seal
+Southern fur seal
+Elephant seal
+Northern elephant seal
+Southern elephant seal
+Harbor seal
+Gray seal
+Leopard seal
+Weddell seal
+Crabeater seal
+Ross seal
+Harp seal
+Ribbon seal
+Monk seal
+Walrus
+Marine otter
+Dugong
+Manatee
+Sea cow
+Flatback turtle
+Yellow-bellied sea snake
+Hydrophis
+Sea krait
+Sea dragon
+Seahorse
+Common seahorse
+Big-belly seahorse
+Longsnout seahorse
+Shortsnout seahorse
+Pygmy seahorse
+Seahorse pipefish
+Hatchetfish
+Ribbon eel
+Green moray
+Snowflake moray
+Giant moray
+Conger eel
+Garden eel
+Lungfish
+Ocean sunfish
+Mola alexandrini
+Archerfish
+Gobies
+Goby
+Cleaner goby
+Amphiprion
+Chromis
+Cleaner wrasse
+Surgeonfish
+Achilles tang
+Rabbitfish
+Foxface rabbitfish
+Hawkfish
+Blenny
+Combtooth blenny
+Fang blenny
+Jawfish
+Tilefish
+Sand tilefish
+Basslet
+Royal gramma
+Dottyback
+Cardinalfish
+Pajama cardinalfish
+Bangaii cardinalfish
+Apogon
+Squirrelfish
+Soldierfish
+Bigeye
+Glassfish
+Silverside
+Atherina
+Smelt
+Capelin
+Sprat
+Pilchard
+Horse mackerel
+Jack mackerel
+Skipjack tuna
+Yellowfin tuna
+Bluefin tuna
+Albacore tuna
+Bigeye tuna
+Bonito
+Wahoo
+Dorado
+Mahi mahi
+Greater amberjack
+Seriola
+Trevally
+Giant trevally
+Bluefin trevally
+Pompano
+Permit fish
+Lookdown fish
+Moonfish
+Butterfish
+John dory
+Dory fish
+Boarfish
+Pineapplefish
+Pinecone fish
+Trumpetfish
+Cornetfish
+Flutemouth
+Belonidae
+Great barracuda
+Sphyraena
+Ladyfish
+Mullets
+Striped mullet
+Goatfish
+Scup
+Sheepshead
+Red drum
+Black drum
+Croaker
+Weakfish
+Spotted seatrout
+Sea trout
+Snook
+Groupers
+Goliath grouper
+Red grouper
+Black grouper
+Nassau grouper
+Coral grouper
+Hind
+Rockfish
+Sebastidae
+Scorpion rockfish
+Atlantic cod
+Pacific cod
+Pollock
+Hake
+Whiting
+Ling
+Cusk
+Burbot
+Brosme
+Wolffish
+Anarhichas
+Wolffish catfish
+Flatfish
+Plaice
+Brill
+Dab
+Sanddab
+Tonguefish
+Pleuronectidae
+Cusk eel
+Stargazer
+Weever fish
+Spiny dogfish
+Skate egg
+Arctic char
+Pacific salmon
+Chinook salmon
+Sockeye salmon
+Coho salmon
+Pink salmon
+Chum salmon
+Steelhead
+Brown trout
+Cutthroat trout
+Bull trout
+Grayling
+Char
+Eelpout
+Sculpin
+Sea scorpion
+Searobin
+Lumpfish
+Cyclopterus
+Snailfish
+Liparidae
+Fishes
+Sea urchin
+Purple sea urchin
+Red sea urchin
+Green sea urchin
+Pencil urchin
+Sand dollar
+Sea biscuit
+Sea cucumber
+Sea apple
+Sea pig
+Sea lily
+Crinoid
+Feather star
+Starfish
+Sea star
+Sunflower star
+Brittle star
+Basket star
+Serpent star
+Ophiura
+Sea sponge
+Glass sponge
+Barrel sponge
+Tube sponge
+Bath sponge
+Staghorn coral
+Brain coral
+Elkhorn coral
+Fire coral
+Black coral
+Soft coral
+Sea fan
+Sea whip
+Gorgonian coral
+Mushroom coral
+Bubble coral
+Cup coral
+Lace coral
+Organ pipe coral
+Pillar coral
+Flowerpot coral
+Table coral
+Plate coral
+Pocillopora
+Acropora
+Montipora
+Porites
+Favia
+Favites
+Dendrogyra
+Meandrina
+Agaricia
+Turbinaria
+Galaxea
+Euphyllia
+Catalaphyllia
+Heliofungia
+Ricordea
+Zoanthid
+Sea anemone
+Clown anemone
+Carpet anemone
+Bubble tip anemone
+Tube anemone
+Cerianthid
+Moon jellyfish
+Lion's mane jellyfish
+Box jellyfish
+Irukandji jellyfish
+Sea nettle
+Blue jellyfish
+Upside down jellyfish
+Cannonball jellyfish
+Mauve stinger
+Portuguese man o war
+By the wind sailor
+Comb jelly
+Ctenophore
+Sea gooseberry
+Venus girdle
+Beroe
+Salp
+Pyrosome
+Doliolid
+Larvacean
+Tunicate
+Sea squirt
+Ascidians
+Sea vase
+Sea pork
+Amphioxus
+Lancelet
+Marine worm
+Polychaete worm
+Feather duster worm
+Christmas tree worm
+Bobbit worm
+Ragworm
+Bloodworm
+Tube worm
+Giant tube worm
+Spaghetti worm
+Fan worm
+Bristle worm
+Scale worm
+Palolo worm
+Flatworm
+Marine flatworm
+Ribbon worm
+Nemertean
+Platyhelminth
+Nematode
+Marine roundworm
+Acorn worm
+Balanoglossus
+Peanut worm
+Sipunculid
+Spoon worm
+Echiuran
+Brachiopod
+Lamp shell
+Mollusk
+Common octopus
+Giant Pacific octopus
+Blue ringed octopus
+Dumbo octopus
+Blanket octopus
+Mimic octopus
+Coconut octopus
+Pygmy octopus
+Giant squid
+Colossal squid
+Humboldt squid
+Vampire squid
+Bobtail squid
+Reef squid
+Cuttlefish
+Flamboyant cuttlefish
+Broadclub cuttlefish
+Sepia
+Nautilus
+Chambered nautilus
+Argonaut
+Paper nautilus
+Clam
+Giant clam
+Hard clam
+Soft shell clam
+Razor clam
+Surf clam
+Cockle
+Scallop
+Oyster
+Pearl oyster
+Mussel
+Blue mussel
+Green mussel
+Horse mussel
+Ark clam
+Shipworm
+Limpet
+Abalone
+Chiton
+Sea snail
+Cone snail
+Cowrie
+Nudibranch
+Sea slug
+Glaucus atlanticus
+Spanish dancer
+Sea hare
+Bubble snail
+Whelk
+Moon snail
+Triton snail
+Top shell
+Turban snail
+Volute
+Murex
+Wentletrap
+Scaphopod
+Tusk shell
+Crustacean
+Crab
+King crab
+Snow crab
+Blue crab
+Dungeness crab
+Hermit crab
+Coconut crab
+Spider crab
+Japanese spider crab
+Fiddler crab
+Ghost crab
+Stone crab
+Mud crab
+Box crab
+Pea crab
+Swimming crab
+Porcelain crab
+Horseshoe crab
+Lobster
+Spiny lobster
+Slipper lobster
+Crayfish
+Langoustine
+Shrimp
+Prawn
+Cleaner shrimp
+Peppermint shrimp
+Pistol shrimp
+Tiger shrimp
+White shrimp
+Pink shrimp
+Brine shrimp
+Krill
+Amphipod
+Isopod
+Giant isopod
+Sea louse
+Barnacle
+Goose barnacle
+Acorn barnacle
+Copepod
+Ostracod
+Decapod
+Squat lobster
+Yeti crab
+Anomura
+Brachyura
+Euphausiid
+Mysid
+Stomatopod
+Water flea
+Sea spider
+Pycnogonid
+Marine insect
+Sea skater
+Ocean strider
+Water beetle
+Marine butterfly
+Sea moth
+Sea firefly
+Marine plankton
+Phytoplankton
+Zooplankton
+Diatom
+Dinoflagellate
+Coccolithophore
+Radiolarian
+Foraminiferan
+Amoeba
+Marine bacteria
+Marine archaea
+Sea algae
+Seaweed
+Kelp
+Giant kelp
+Bull kelp
+Nori
+Wakame
+Kombu
+Dulse
+Sea lettuce
+Irish moss
+Gracilaria
+Sargassum
+Fucus
+Laminaria
+Macrocystis
+Ulva
+Caulerpa
+Codium
+Ecklonia
+Turbinaria algae
+Coralline algae
+Red algae
+Brown algae
+Green algae
+Blue green algae
+Spirulina
+Chlorella
+Sea grass
+Eelgrass
+Turtle grass
+Manatee grass
+Shoal grass
+Surf grass
+Salt marsh grass
+Mangrove
+Red mangrove
+Black mangrove
+White mangrove
+Sea grape
+Coastal shrub
+Saltwort
+Marsh plant
+Beach morning glory
+Beach pea
+Sea rocket
+Sea lavender
+Glasswort
+Saltbush
+Dune grass
+Beach grass
+Seagrass meadow
+Kelp forest
+Coral reef
+Atoll
+Lagoon
+Estuary
+Tide pool
+Hydrothermal vent
+Deep sea sponge
+Deep sea coral
+Deep sea shrimp
+Deep sea crab
+Deep sea fish
+Deep sea jellyfish
+Deep sea squid
+Deep sea octopus
+Deep sea worm
+Deep sea snail
+Deep sea clam
+Deep sea mussel
+Deep sea isopod
+Deep sea amphipod
+Deep sea copepod
+Deep sea plankton
+Deep sea bacteria
+Deep sea archaeon
+Abyssal fish
+Abyssal squid
+Abyssal octopus
+Abyssal crab
+Abyssal shrimp
+Abyssal worm
+Abyssal sea cucumber
+Abyssal starfish
+Abyssal sponge
+Abyssal coral
+Abyssal jellyfish
+Abyssal snail
+Abyssal clam
+Abyssal mussel
+Abyssal isopod
+Abyssal amphipod
+Abyssal copepod
+Abyssal plankton
+Abyssal bacteria
+Abyssal archaea
+Pelagic fish
+Demersal fish
+Reef fish
+Coastal fish
+Estuarine fish
+Migratory fish
+Deepwater fish
+Bottom fish
+Schooling fish
+Predatory fish
+Forage fish
+Game fish
+Commercial fish
+Ornamental fish
+Tropical fish
+Temperate fish
+Polar fish
+Arctic fish
+Antarctic fish
+Freshwater fish
+Brackish fish
+Saltwater fish
+Marine mammal
+Marine bird
+Seabird
+Shorebird
+Wading bird
+Oceanic bird
+Pelagic bird
+Coastal bird
+Reef bird
+Polar seabird
+Arctic seabird
+Antarctic seabird
+Sea eagle
+Sea hawk
+Sea owl
+Sea crow
+Sea raven
+Sea gull
+Seagull
+Tern
+Arctic tern
+Caspian tern
+Plover
+Sandpiper
+Oystercatcher
+Avocet
+Curlew
+Godwit
+Turnstone
+Sanderling
+Dunlin
+Red knot
+Whimbrel
+Marsh sandpiper
+Reef heron
+Sea heron
+Sea egret
+Sea stork
+Sea ibis
+Sea spoonbill
+Sea flamingo
+Sea crane
+Sea duck
+Sea goose
+Sea swan
+Sea pigeon
+Sea dove
+Sea parrot
+Sea penguin
+Sea puffin
+Sea albatross
+Sea petrel
+Sea shearwater
+Sea frigatebird
+Sea pelican
+Sea cormorant
+Sea booby
+Sea gannet
+Sea kingfisher
+Sea osprey
+Sea falcon
+Sea vulture
+Sea condor
+Sea buzzard
+Sea caracara
+Marine mammal calf
+Whale calf
+Dolphin calf
+Seal pup
+Sea lion pup
+Walrus calf
+Otter pup
+Manatee calf
+Dugong calf
+Sea turtle hatchling
+Shark pup
+Ray pup
+Seahorse fry
+Fish fry
+Fish egg
+Shark egg
+Ray egg
+Sea turtle egg
+Coral polyp
+Sea anemone polyp
+Jellyfish polyp
+Hydroid
+Sea hydra
+Hydrozoan
+Scyphozoan
+Cubozoan
+Anthozoan
+Octocoral
+Hexacoral
+Scleractinian coral
+Black coral tree
+Sea pen
+Sea pansy
+Sea plume
+Sea rod
+Sea cork
+Sea peach
+Sea potato
+Sea onion
+Sea squirt colony
+Bryozoan
+Moss animal
+Lace animal
+Sea mat
+Entoproct
+Kamptozoan
+Phoronid
+Horseshoe worm
+Spiralia
+Lophophorate
+Marine leech
+Sea leech
+Fish parasite
+Sea lice parasite
+Marine tick
+Marine mite
+Tardigrade
+Sea bear
+Water bear
+Marine rotifer
+Wheel animal
+Marine flatworm species
+Marine nematode species
+Marine annelid species
+Marine mollusk species
+Marine arthropod species
+Marine echinoderm species
+Marine chordate species
+Marine invertebrate
+Marine vertebrate
+Sea creature
+Ocean animal
+Ocean organism
+Sea life
+Marine life
+Ocean life
+Reef life
+Deep sea life
+Coastal life
+Pelagic life
+Benthic life
+Intertidal life
+Subtidal life
+
+[thảm họa thiên nhiên]
+Earthquake
+Aftershock
+Tsunami
+Volcanic eruption
+Lava flow
+Ashfall
+Pyroclastic flow
+Lahar
+Landslide
+Mudslide
+Rockslide
+Avalanche
+Snowstorm
+Blizzard
+Ice storm
+Hailstorm
+Thunderstorm
+Lightning strike
+Tornado
+Waterspout
+Hurricane
+Typhoon
+Cyclone
+Storm surge
+Flood
+Flash flood
+River flood
+Coastal flood
+Drought
+Cold wave
+Wildfire
+Forest fire
+Bushfire
+Dust storm
+Sandstorm
+Famine
+Sinkhole
+Ground subsidence
+Erosion
+Coastal erosion
+Glacier collapse
+Iceberg collision
+Meteor impact
+Asteroid impact
+Solar storm
+Geomagnetic storm
+Extreme rainfall
+Monsoon flood
+Cloudburst
+Frost
+Freezing rain
+Heavy snowfall
+Extreme wind
+Derecho
+Microburst
+Downburst
+Fire whirl
+Volcanic earthquake
+Earthquake swarm
+Liquefaction
+Dam failure
+Levee failure
+
+[các loại trang phục]
+T-shirt
+Shirt
+Polo shirt
+Blouse
+Tank top
+Crop top
+Tube top
+Halter top
+Camisole
+Sweater
+Cardigan
+Pullover
+Hoodie
+Sweatshirt
+Jacket
+Denim jacket
+Leather jacket
+Bomber jacket
+Blazer
+Suit jacket
+Coat
+Overcoat
+Trench coat
+Raincoat
+Parka
+Windbreaker
+Anorak
+Vest
+Waistcoat
+Suit
+Tuxedo
+Dress
+Gown
+Wedding dress
+Evening dress
+Cocktail dress
+Sundress
+Maxi dress
+Midi dress
+Mini dress
+Shirt dress
+Wrap dress
+A-line dress
+Bodycon dress
+Skirt
+Mini skirt
+Midi skirt
+Maxi skirt
+Pencil skirt
+Pleated skirt
+Tutu
+Shorts
+Bermuda shorts
+Cargo shorts
+Board shorts
+Jeans
+Skinny jeans
+Straight jeans
+Wide leg jeans
+Flared jeans
+Bootcut jeans
+Leggings
+Jeggings
+Trousers
+Pants
+Cargo pants
+Joggers
+Sweatpants
+Track pants
+Chinos
+Slacks
+Capri pants
+Overalls
+Dungarees
+Jumpsuit
+Romper
+Playsuit
+Bodysuit
+Leotard
+School uniform
+Scrubs
+Lab coat
+Bathrobe
+Robe
+Kimono
+Yukata
+Hanbok
+Sari
+Salwar kameez
+Kurta
+Sherwani
+Abaya
+Hijab
+Jilbab
+Thobe
+Keffiyeh
+Poncho
+Cloak
+Cape
+Pajamas
+Nightgown
+Sleep shirt
+Loungewear
+Underwear
+Boxers
+Briefs
+Panties
+Bra
+Sports bra
+Bikini
+Swimsuit
+One piece swimsuit
+Swim trunks
+Wetsuit
+Rash guard
+Long johns
+Tights
+Stockings
+Socks
+Ankle socks
+Knee socks
+Compression socks
+Gloves
+Mittens
+Scarf
+Neck warmer
+Hat
+Beanie
+Cap
+Baseball cap
+Bucket hat
+Sun hat
+Fedora
+Beret
+Turban
+Headband
+Bandana
+Balaclava
+Earmuffs
+Sneakers
+Trainers
+Running shoes
+Basketball shoes
+Football boots
+Cleats
+Sandals
+Flip flops
+Loafers
+Oxfords
+Derby shoes
+Brogues
+Dress shoes
+High heels
+Pumps
+Stilettos
+Wedges
+Platform shoes
+Ankle boots
+Chelsea boots
+Combat boots
+Rain boots
+Hiking boots
+Cowboy boots
+Snow boots
+Clogs
+Espadrilles
+Moccasins
+Ballet flats
+Mary Janes
+Skates
+Ice skates
+
+[các quốc gia]
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czechia
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
